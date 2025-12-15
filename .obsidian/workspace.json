@@ -24,35 +24,65 @@
             }
           },
           {
-            "id": "5b3ae74a3eb870ce",
+            "id": "65e5fe68c39d93bd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SYS - étude de cas 2 (Alex).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "SYS - étude de cas 2 (Alex)"
+            }
+          },
+          {
+            "id": "52444e40749058d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B2- Psychologie du vieillissement.md",
+                "file": "SYS - cybernétique appliquée à la pratique clinique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B2- Psychologie du vieillissement"
+              "title": "SYS - cybernétique appliquée à la pratique clinique"
             }
           },
           {
-            "id": "ca22a764179369e5",
+            "id": "ed734f20149dfe1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B2 - Psychologie systémique.md",
+                "file": "SYS - La thérapie contextuelle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B2 - Psychologie systémique"
+              "title": "SYS - La thérapie contextuelle"
             }
           },
           {
-            "id": "f2837d17072df0e9",
+            "id": "abbf165089ddbdf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SYS - étude de cas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SYS - étude de cas"
+            }
+          },
+          {
+            "id": "8d5db1bd255f035f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,17 +96,91 @@
             }
           },
           {
-            "id": "12e7b9bf3784e8f8",
+            "id": "d00c3b77f0d5366a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SYS - cybernétique appliquée à la thérapie familiale.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SYS - cybernétique appliquée à la thérapie familiale"
             }
           },
           {
-            "id": "76b852b5c30824d8",
+            "id": "e37236a1cccc88c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SYS - cybernétique appliquée à la pratique clinique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SYS - cybernétique appliquée à la pratique clinique"
+            }
+          },
+          {
+            "id": "6f342883fe0518eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B2 - Psychologie systémique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B2 - Psychologie systémique"
+            }
+          },
+          {
+            "id": "8627119e6c11c6b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B2- Psychologie du vieillissement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B2- Psychologie du vieillissement"
+            }
+          },
+          {
+            "id": "2af32cbeb1859599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEON - Code de déontologie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DEON - Code de déontologie"
+            }
+          },
+          {
+            "id": "eb7e934ca5585865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEON - Les droits du patient.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DEON - Les droits du patient"
+            }
+          },
+          {
+            "id": "d44cfc5ffd954cda",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,49 +194,7 @@
             }
           },
           {
-            "id": "46200539acc58d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEON - Lorsque la relation professionnelle est imposée par un tiers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DEON - Lorsque la relation professionnelle est imposée par un tiers"
-            }
-          },
-          {
-            "id": "3e8613e99856f7d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEON - Le secret professionnel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DEON - Le secret professionnel"
-            }
-          },
-          {
-            "id": "ee791c8ae7616482",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B2 - Physiologie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B2 - Physiologie"
-            }
-          },
-          {
-            "id": "dce4b1fd81d52b92",
+            "id": "2bb55c87b59f64a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,21 +208,35 @@
             }
           },
           {
-            "id": "be7aeae73cb495a6",
+            "id": "e1a8fe3426779d0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYBIO - Méthodes de recherche en psychobiologie.md",
+                "file": "DEON - Le secret partagé.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PSYBIO - Méthodes de recherche en psychobiologie"
+              "title": "DEON - Le secret partagé"
             }
           },
           {
-            "id": "febd71180ff43599",
+            "id": "26bcd6e37c4c96ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEON - Perquisition et accès au dossier.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DEON - Perquisition et accès au dossier"
+            }
+          },
+          {
+            "id": "7256a0a046903420",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,8 +248,65 @@
               "icon": "lucide-file",
               "title": "SANTE - L'adhérence au traitement"
             }
+          },
+          {
+            "id": "a7a3f05a063c6da0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B2 - Psychologie de la santé.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B2 - Psychologie de la santé"
+            }
+          },
+          {
+            "id": "5debe930ce460a5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SANTE - Étude de cas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SANTE - Étude de cas"
+            }
+          },
+          {
+            "id": "597420abf965b730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B2 - Psychologie différentielle - Intelligence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B2 - Psychologie différentielle - Intelligence"
+            }
+          },
+          {
+            "id": "47286d95529cad0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTEL - La créativité.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INTEL - La créativité"
+            }
           }
-        ]
+        ],
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -193,7 +326,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "acétylcholine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,7 +360,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3dcfc89bd62fef84",
@@ -240,7 +374,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "INTEL - La créativité.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,7 +402,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of INTEL - La créativité"
             }
           }
         ]
@@ -351,7 +485,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "INTEL - La créativité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -361,7 +495,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for INTEL - La créativité"
             }
           }
         ]
@@ -401,15 +535,40 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "08be33e50d7878d3",
+  "active": "47286d95529cad0c",
   "lastOpenFiles": [
-    "PSYBIO - Méthodes de recherche en psychobiologie.md",
-    "B2 - Psychologie biologique.md",
+    "Pasted image 20251210164256.png",
+    "INTEL - La créativité.md",
+    "B2 - Psychologie différentielle - Intelligence.md",
     "Home.md",
+    "SANTE - Étude de cas.md",
     "B2 - Psychologie de la santé.md",
+    "DEON - Perquisition et accès au dossier.md",
     "SANTE - L'adhérence au traitement.md",
-    "SANTE - Le modèle transactionnel du stress.md",
     "PHYSIO - TEMP.md",
+    "PHYSIO - Système nerveux autonome.md",
+    "Le système nerveux.md",
+    "DEON - l'éthique en recherche.md",
+    "B2 - Déontologie.md",
+    "B2 - Psychologie systémique.md",
+    "DEON - Le secret partagé.md",
+    "Untitled 5.md",
+    "B2- Psychologie du vieillissement.md",
+    "DEON - Code de déontologie.md",
+    "DEON - Les droits du patient.md",
+    "SYS - étude de cas 2 (Alex).md",
+    "SYS - cybernétique appliquée à la thérapie familiale.md",
+    "SYS - cybernétique appliquée à la pratique clinique.md",
+    "SYS - étude de cas.md",
+    "SYS - Les thérapies familiales - la théorie bowenienne des systèmes familiaux.md",
+    "SYS - La thérapie contextuelle.md",
+    "251110 - Cours 7.pdf",
+    "251117 - Cours 8.pdf",
+    "251124 - Cours 9.pdf",
+    "251201 - Cours 10.pdf",
+    "B2 - Psychologie des apprentissages scolaires.md",
+    "Lésions du système nerveux.pdf",
+    "CHAPITRE VI Système nerveux autonome.pdf",
     "Pasted image 20251125120403.png",
     "Pasted image 20251125113129.png",
     "Pasted image 20251125112327.png",
@@ -418,37 +577,12 @@
     "Pasted image 20251125105655.png",
     "Pasted image 20251125105601.png",
     "Pasted image 20251125105504.png",
-    "B2 - Physiologie.md",
-    "DEON - Lorsque la relation professionnelle est imposée par un tiers.md",
-    "B2 - Déontologie.md",
-    "DEON - Le secret professionnel.md",
-    "SYS - Les thérapies familiales - la théorie bowenienne des systèmes familiaux.md",
     "Pasted image 20251124121737.png",
     "Pasted image 20251124121718.png",
-    "B2 - Psychologie systémique.md",
-    "B2- Psychologie du vieillissement.md",
-    "B2 - Psychologie des apprentissages scolaires.md",
-    "INTEL - Aspects théoriques et appliqués.md",
-    "INTEL - L'origine des différences individuelles.md",
-    "Psychologie de la personnalité.md",
-    "B2 - Psychologie différentielle - Intelligence.md",
-    "SYS - étude de cas.md",
-    "INTEL - Introduction.md",
-    "INTEL - La mesure des différences individuelles.md",
-    "SANTE - Différences hommes femmes.md",
-    "DEON - Le cadre et le consentement.md",
-    "SYS - cybernétique appliquée à la thérapie familiale.md",
-    "Orientation systémique.md",
     "PSYC5891 IIIC Principes d'organisation des systèmes sensoriels.pdf",
     "PSYC5891 IIIB Le système auditif(1).pdf",
     "Kivits  J. et Balard  F. (2016). Chapitre 2. La proble¿matisation ou l'importance de penser sa question de recherche.pdf",
     "EVALUATION - Tagged.pdf",
-    "L'attention - lang & cog.pdf",
-    "PSYC5867 MOD09-03 PRÉSENTIEL 9.pdf",
-    "04_Perception3_Patterns, objets et visages_web - Tagged.pdf",
-    "Cours 04A_Illusions visuelles_web - Tagged.pdf",
-    "PSYC5867 MOD08-3 PRÉSENTIEL 8.pdf",
-    "Cours 03_Perception2_web - Tagged.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",

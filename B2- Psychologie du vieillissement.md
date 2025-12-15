@@ -145,5 +145,36 @@ Une enquête auprès de jeunes retraités (<5ans), 1/4 de ces retraités seraien
 
 
 
+### Réserve cognitive
+![[251201 - Cours 10.pdf]]
 
+![[251117 - Cours 8.pdf]]![[251124 - Cours 9.pdf]]
+![[251110 - Cours 7.pdf]]L'intelligence innée et les aspects liés à l'intelligence acquise au cours de l'expérience de la vie s'exprimant sous forme d'habilités qui constitue une réserve cognitif qui stimulera le cerveau notamment lors de l'âge avancé, minimisant l'impact du vieillissement sur la cognition. Au départ la personne avec une réserve supérieure à déjà une autonomie supérieure. Après un certain dommages du aux lésions, celui avec une réserve inférieure va diminuer avec le temps jusqu'à un minimum. En ce même temps celui avec une réserve élevé est stable, après un temps bien plus avancé, ils seront tout de même touché mais atteindront plus rapidement ce minimum. Il y a donc des mois ou années d'intervalles où celui avec une réserve élevée compensera avec ces capacités où son niveau ne se dégradera pas à cause de la pathologie.
+
+Qu'est-ce qu'un milieu enrichi et comment s'exprime physiologiquement cette réserve cognitive ? Le débat n'est pas tranché. La première hypothèse est dite passive et l'autre active. La passive est peut débattue et donc affirmée, c'est la densité synaptique et de neurones. Plus de neurones font subsister lors des lésions et qui compenseront. L'hypothèse active est celle qui décrit que même si le volume est le même, le seuil qui engendre l'handicap est posté à un niveau différent, le seuil est plus élevé chez le patient avec une réserve supérieure. Manière dont on utilise le volume existant. Ce sont probablement les deux hypothèses qui sont correctes.
+
+Les facteurs de la réserve cognitive, est notamment le niveau d'éducation qui permet la stimulation intellectuelle. Il est relativement indépendant et permet de bien prédire la quantité de réserve. Les occupations en dehors de la profession et la diversité des activités. Participation à des activités de loisirs. Avoir une vie active. Il y a cependant aussi des effets néfastes, notamment une faible complexité des occupations. L'isolement sociale joue également défavorablement sur la réserve cognitive.
+
+>Etude rétrospective sur 211 patients atteints d'Alzheimer soit monolingue soit bilingue. En moyenne les bilingues sont diagnostiqués 4,3 ans plus tard et les symptômes apparaissent 5,1 ans plus tard.
+
+Une étude de Schooler montre que le travail rémunéré a un impact positif sur cette réserve. Notamment car ça joue sur le sentiment d'auto-efficacité positivement et diminue l'isolement social.
+
+Est-ce que après 60 ans, commencer des activités afin de stimuler positivement la réserve cognitive peut toujours avoir des effets significatifs ? Evaluation cognitive avec une tâche de mémoire épisodique (liste de 10 mots en rappel direct et différé). Il y a aussi la fluence sémantique où il faut pendant 1 minute citer des noms catégoriques d'un champ lexicale.
+
+
+
+Plus l'âge de la retraite est élevé dans un pays, plus les capacités mentales des gens à hauts âges sont élevées. Pour autant, ça ne justifie pas l'augmentation de l'âge de départ à la retraite. 
+
+Belgique, France, Italie, Hollande ont fixé des politiques de pré retraites encourageantes (favorise la retraite anticipée). Même constat qu'avant: quitter tôt nuit aux capacités cognitives.
+
+Après avoir pris sa retraite, sa mémoire baisse significativement dans l'année qui suit. 
+4 ans de travail en plus = 8 ans de meilleures performances cognitives. 
+
+=> Démontre l'effet positif de l'activité, pas de la profession. 
+- L'effet d'amélioration cognitif n'est visible qu'aux cols blancs. Les cols bleus ne voient pas. 
+- Quitter son emploi a un impact plus fort chez les hommes que chez les femmes; le status professionnel chez l'homme est plus central. J'existe par le travail. Pour les femmes, le travail est moins central et a plein d'autres choses sur le côté. 
+- impact des professions à horaires décalés: jetlags, travail de nuit. Rester en emploi impacte négativement. On est tellement décalé que ça impacte le fonctionnement cognitif. 
+
+Moins on communique sur le vieillissement cognitif des vieux, mieux on se porte. On rentre trop dans les clichés.
+> "*Rien de plus simple que de vieillir jeune. Il suffit de travailler dans la joie*."
 

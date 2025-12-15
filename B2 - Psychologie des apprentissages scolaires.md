@@ -311,6 +311,120 @@ Transformer les sous-titres en questions (Question) - (Read) lire la section - (
 Il faut expliquer aux enseignants quelles techniques pour appliquer la métacognition. Avoir ces outils ou ne pas les avoir creuse la différence entre les élèves. Amener les élèves à se poser des questions sur leur méthode de réflexion a déjà un effet positif.
 
 
+
+# Chapitre 4 - constructivisme
 Piaget le constructiviste (page blanche, tout se construit via l'enseignement)
+Pour le constructivisme, la construction de connaissances ne se limite pas à la résolution de problèmes concrets; elle est aussi recherche de cohérence. Ce n'est pas que l'expérience direct mais aussi la construction de cohérence.
+
 La connaissance part de l'action exercée sur les objets. La connaissance n'est pas autoformée ni dans l'objet ni dans le sujet mais dans l'interaction des deux. Elle n'est pas l'objet étudié lui-même  mais une interprétation par le sujet (étude du dessin chez l'enfant - copie d'un modèle; l'enfant ne dessine pas ce qu'il voit mais l'idée qu'il s'en fait). 
+
+Pour Piaget, si on travaille sur le nombre dès les maternelles, ça n'a pas encore de sens parce qu'ils n'en comprennent pas encore le concept. Il faut plutôt travailler sur des problèmes de raisonnement mathématique mais sans données numériques. On débute par le langage plutot que par l'action. Eviter les activités de comptage et de dénombrement (simple connaissance verbale acquise par transmission sociale - les familles aiment bien faire compter les enfants qui répètent ça comme une musique sans que ça représente quelque chose pour eux). 
+Pour Piaget, le nombre n'est pas une propriété physique mais une relation construite mentalement. 
+
+Concepts de Piaget:
+**Sériation**: ordonner les objets selon leur différence (relation asymétrique en faisant abstraction de leur équivalence). Á l'origine selon Piaget de la compréhension de ce que sont les nombres. 
+**Classification**: ordonner les objets en faisant abstraction de leur différence.
+Coordonner la sérialisation et la classification permet d'obtenir le sens du nombre et ses aspects ordinaux et cardinaux. 
+**Classes d'équivalence**: TODO
+**Inclusion hiérarchique**: TODO
+**L'invariance du nombre** (**la conservation du nombre**): un nombre n'est intelligible que dans la mesure  ou il demeure identique à lui-même quelle que soit la disposition (physique, dans l'espace, une pile, éparpillés) des unités dont il est composé. Un enfant peut avoir l'impression que si on rassemble les unités en un groupe serré, il y a moins d'unités qu'avant.
+Certaines transformations affectent le nombre (ajout, retrait) mais d'autres actions ne l'affectent pas (déplacements). 
+**La réversibilité**: consiste à concevoir simultanément une action ou une opération et l'action opératoire qui l'annule.
+
+
+# Perspective de Bachelard (destructeur de murs)
+*Déconstruire les préconceptions* immédiates afin de se rapprocher de la vérité et une pensée plus scientifique. 
+Il faut prendre en compte les préconceptions des élèves pour les bousculer. Les enseignants pensent que si un discours bien clair et bien structuré devrait être compris; si ce n'est pas compris, c'est que "les élèves n'ont pas été attentifs".
+Selon Bachelard, il faudrait d'abord déconstruire, bousculer les préconceptions. Détruire le mur pour le reconstruire autrement. Eviter la pensée immédiate non fondée. 
+Une vision fausse des choses peut déformer les nouveaux savoirs. 
+
+**Étapes pour tenir compte des conceptions.** 
+1. Faire émerger les conceptions
+2. Analyser les production
+3. Mettre enplace une situation de rupture
+4. Aider à réorganiser du savoir
+5. Retourner sur la conception fausse 
+6. Stabiliser la nouvelle conception
+
+# **Théorie de Kohlberg**
+Construction et apprentissages de la moralité des bons comportements socialement acceptés. 
+"Est-ce que tu volerais ce médicament?" Justifie. 
+
+**Stade 1**: peur du gendarme
+**Stade 2**: Utilitarisme naïf: si tu me donnes, je te donne
+**Stade 3:** Niveau de morale conventionnel: importance des attentes d'autrui, de leur approbation, importance de la confiance
+**Stade 4**: Moralité légaliste: conscience d'un ordre, besoin de discipline
+**Stade 5**: Morale contractualiste: obéir à la loi MAIS pas intangible (justice, transparence, démocratie). Médecins qui font des avortements contre la loi
+**Stade 6**: Morale universaliste: domination de la conscience, moralité basée sur des principes personnels
+
+
+
+
+Thèmes à connaitre:
+
+Schèmes
+Assimilation / accomodation
+Déséquilibre / équilibration
+Equilibration majorante
+Abstraction empirique: le sujet exrtait une information sur les objets ou les effets de ses actions
+Abstraction réfléchissante: coordination des schèmes
+Opérations
+Réversibilité/renversabilité: exemple de la corde et de l'enfant (la corde qui glisse autour du clou)
+Conflit socio-cognitif: 
+
+Au sens (socio)constructiviste, une situation-problème intervient en début d’apprentissage pour confronter l’élève à une situation dont la résolution nécessite une connaissance qu’il ne possède pas a priori mais qu’il découvrira en se confrontant à la situation.
+
+Crahay dégage plusieurs principes pédagogiques de la théorie développementale de Piaget. Selon lui, cette théorie permet notamment de rejeter toute forme de drill et d’automatisme dans l’enseignement. FAUX
+
+
+Wooclap
+Q11. Dans la vidéo « Au pied de la lettre », les expérimentations réalisées en s’appuyant sur les travaux de Ferreiro montrent notamment que:
+certains enfants considèrent que la représentation graphique ne reflète que partiellement la phrase parlée (ex. considérer qu’une phrase entière peut être écrite dans un fragment de phrase).
+
+Selon la théorie de Kohlberg,
+c’est la justification donnée par le sujet au dilemme proposé qui permet de déterminer le stade de développement moral auquel il se situe.
+
+**Styles cognitifs**
+Visuelle, auditive, cognitive? Faut-il pour autant différencier l'enseignement? Existe-t-il des méthode efficaces? 
+Mythe =>>> 
+
+❌Aucune preuve de l'efficacité d'une discrimination des méthodes d'enseignement
+✅Des approches qui essaient de toucher à **plusieurs modalités sensorielles à la fois** semblent plus efficaces.
+
+
+# L'école du cerveau
+L'attention sélective et le contrôle inhibiteur
+On a 2 systèmes: 
+Système heuristique rapide, intuitive (un éléphant est lourd)
+Règles logiques algorithmiques (un éléphant mange du foin + le foin est léger = un éléphant est lourd ❌)
+=> conflit entre l'intuitif et le système logique.
+
+Il faut activer un système inhibiteur, qui va bloquer le système heuristique (non, on ne te demande pas si les éléphants sont lourds, ici. On demande cause/conséquence). 
+
+Lorsqu'on enseigne quelque chose de nouveau, par dessus une nouvelle conception, même si la nouvelle idée est acquise et comprise, on peut toujours avoir une étape où on va devoir inhiber les anciennes pensées pour laisser plus de place aux nouvelles. "Oui, oui, la terre est plat... ronde!!".
+
+Enseigment explicite
+
+Dire - rendre explicite les objectifs de la leçon
+Dire - rendre explicites et accessibles les connaissances antérieurs dont les Es auront besoin
+
+Montrer - rendre explicite la tâche à accomplir et énoncer son raisonnement à haute voix (le prof le fait d'abord - modelage)
+Montrer - aider les Es à rendre explicite leur raisonnement et fournir un feedback rapide pour éviter que les erreurs se cristallisent. 
+
+1 - mise en situation
+objectif, applications concrètes
+2 - expérience d'apprentissage
+guider, modeler la pensée
+3 - objectivation
+Identifier et extraire les concepts essentiels à retenir
+
+Activation de la connaissance (vidéo Yt)
+Nombre intensité durée. Optimiser ces 3 facteurs favorisent l'apprentissage. Très peu de moments d'activation mais d'une longue durée ne sera pas nécessairement bon non plus. Une activité de 10-15 minutes peut n'activer les neurones liées à l'apprentissage de l'addition que pendant quelques secondes.
+**"Sur la durée totale de l'activité, combien de temps sera dédié à l'activation?"**
+
+Ajouter une image d'IRM à une information fausse nous fait perdre tout esprit critique; la vue ce cette image nous rend crédule car on ne se sent pas la légitimité de remettre l'information en question. 
+
+
+
+
 

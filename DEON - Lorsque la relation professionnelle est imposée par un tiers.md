@@ -6,7 +6,7 @@ On ne peut pas pa faire d'évaluations ou rendre des avis sur des personnes que 
 "Le parent X est violent avec l'enfant" -> "La maman rapporte des violences du père". 
 
 ## Avis technique
-Tiers autorisés: 
+**==Tiers autorisés==**
 *Violation du secret professionnel si on en parle à un tiers non autorisé.*
 - Parents d'un enfant mineur
 - Tuteur pour son pupille
@@ -27,5 +27,26 @@ Si l'autre parent n'est pas au courant, on doit se manifester chez ce parent, pa
 Un expert mandaté par le juge ne va donner que les informations utiles pour répondre aux questions du magistrat.
 
 
+==**Expertise judiciaire**==
+Un psychologue ou un logopède peut être appelé pour une expertise judiciaire. 
+Il est expert et pas témoin. Le psy est neutre dans sa position par opposition à u témoin. 
+Un rapport doit contenir les informations permettant de comprendre notre conclusion mais pas des confidences qui n'apportent rien. 
+Le rapport d'expertise est secret. 
+Le procès est public mais ne peut pas être enregistré. Ce qui est dit peut sortir. 
+L'expert peut intervenir en restant général mais devrait refuser car ça peut très vite dévier sur l'affaire en cours. Lors de l'audience et face à une audience autorisée, on peut parler du cas. En dehors, si on est interrogés sur ce qu'on a dit, on n'est plus dans le cadre de l'exemption du secret; on ne peut donc plus répéter ce qu'on a dit, même si c'était déjà devant une grande audience. 
 
+On ne peut pas faire d'expertise pour un ancien patient/client, ami ou ami d'ami.
+
+**==Le secret professionnel partagé==**
+Le secret professionnel peut être partagé avec des collègues (de façon limitée à ce qui est utile), pour savoir l'historique et les actions à entreprendre. Obligation de collaborer avec les autres personnes ou services appelés à traiter la même situation. 
+Le secret professionnel partagé n'est pas là pour diluer la responsabilité mais pour chercher à trouver des solutions avec du soutien. 
+Le 458 seul interdit de communiquer le secret à quiconque, incluant les autre professionnels. Mais les articles 458bis et 458ter annulent cette restriction dans certains cas. 
+
+En cas de recherche d'aide, un psychologue veut des conseils auprès d'un autre collègue.
+Si on ne donne pas l'identité du patient, on peut partager certaines informations de manière anonyme.
+Par contre si je donne le nom de la personne ou qu'elle est connue par le collègue, alors il faut avoir l'autorisation du client/patient. 
+
+Le client/patient peut décider de ne plus vouloir travailler avec d'autres intervenants (SAJ, PMS, médecins) mais on peut aussi apporter nos conditions comme un refus de poursuivre si nos propres conditions ne sont plus remplies. Si on comptait sur le soutien de ces autres intervenants, on peut refuser de poursuivre le suivi du client. 
+
+Un enseignant ne peut pas écrire de confidences des enfants sur les réseaux sociaux. Ce ne sera pas pénal mais plutôt au niveau local, de l'école. L'enseignant doit respecter le se
 

@@ -7,3 +7,4 @@
 [[INTEL - La mesure des différences individuelles]]
 [[INTEL - L'origine des différences individuelles]]
 [[INTEL - Aspects théoriques et appliqués]]
+[[INTEL - La créativité]]

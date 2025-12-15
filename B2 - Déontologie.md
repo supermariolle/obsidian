@@ -4,4 +4,7 @@
 [[DEON - Le cadre et le consentement]]
 [[DEON - Le secret professionnel]]
 [[DEON - Lorsque la relation professionnelle est imposée par un tiers]]
-
+[[DEON - Les droits du patient]]
+[[DEON - Perquisition et accès au dossier]]
+[[DEON - Le secret partagé]]
+[[DEON - l'éthique en recherche]]

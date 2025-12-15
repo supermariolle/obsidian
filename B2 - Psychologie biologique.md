@@ -5,6 +5,7 @@
 [[PSYBIO - Le système auditif]]
 [[PSYBIO - Principes d'organisation des systèmes sensoriels]]
 [[PSYBIO - Méthodes de recherche en psychobiologie]]
+[[PSYBIO - Les lésions cérébrales]]
 
 
 
