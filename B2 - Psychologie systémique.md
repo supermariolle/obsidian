@@ -4,6 +4,7 @@
 [[SYS - Les thérapies familiales - la théorie bowenienne des systèmes familiaux]]
 [[SYS - La thérapie contextuelle]]
 [[SYS - étude de cas 2 (Alex)]]
+[[SYS - QCM préparatoire]]
 $\psi$: Etude scientifique des comportements, des processus mentaux et des émotions. 
 
 Approche qui tient compte de l'impact d'un système et de toutes ses composantes prises ensemble.

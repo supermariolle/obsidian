@@ -23,6 +23,7 @@
 > # [[B2 - Psychologie biologique]]
 > # [[B2 - Psychologie des apprentissages scolaires]]
 > # [[B2 - Physiologie]]
+> # [[B2Q1 - Synthèses]]
 
 
 ---

@@ -115,6 +115,17 @@ Maitriser les procédures élémentaires n'est pas suffisant pour aborder des t�
 Il faut aussi apprendre à décomposer la complexité pour pouvoir la traiter comme une suite d'éléments simples. 
 Il faut un mix de compréhension et de drill. 
 
+**Il faut enseigner chaque sous-compétence de façon précise et la driller**
+## Vygotsky
+---
+Il distingue les outils matériels (agir sur les choses, construit par l'interaction avec les adultes comme pour l'usage du marteau) et symboliques (agir sur les autres et soi-même). Dans le monde scolaire, on privilégie le symbolique. 
+
+Loi de double formation est d'abord une fonction interpsychique puis une activité intrapsychique. On est d'abord dans l'inter avant l'intra car la double formation, comme la ZPD (zone proximale de développement) le décrit, il faut d'abord se trouver dans une zone confortable puis en sortir peu à peu.
+
+- empreinte directe de l'environnement: empirisme
+- procède de l'intérieur vers l'extérieur: emp
+- produit des modelages environnementaux: behaviorisme
+- adaptation face aux déséquilibres de l'environnement: constructivisme
 
 ## Skinner
 ---
@@ -151,13 +162,14 @@ Les comportements perturbateurs peuvent être expliqués par un manque de renfor
 - ceux qui ne lèvent pas la main ne vont pas être interrogés, prendre l'habitude et ne pas lever la main. 
 *Solution*: sollicitations personnalisées (target les élèves, les questionner). 
 
-
+Il veut éviter les erreurs; on produit une réponse et on reçoit un feedback immédiatement.
 ## Bloom
 ---
 Pour Bloom, l'objectif de l'école **n'est pas** de favoriser l'épanouissement des potentialités propres à chacun. => objectif pas assez ambitieux pour lui. 
 Potentialités? C'est propre à chaque élève. On ne cultive pas les différences, on souhaite prendre tout le monde avec à un même rythme pour les faire atteindre les mêmes compétences. 
 Tout le monde est capable de tout apprendre, l'aptitude de base ne conditionne que la vitesse d'apprentissage mais jamais le niveau maximal. 
 Apprendre s'apprend. 
+Il faut vérifier les prérequis avant de démarrer la leçon. 
 
 Formule de Caroll
 
@@ -425,6 +437,16 @@ Nombre intensité durée. Optimiser ces 3 facteurs favorisent l'apprentissage. T
 Ajouter une image d'IRM à une information fausse nous fait perdre tout esprit critique; la vue ce cette image nous rend crédule car on ne se sent pas la légitimité de remettre l'information en question. 
 
 
+étayage: ensemble des interactions de soutien et de guidage mises en oeuvre par un partenaire-expert pour aider l'enfant à résoudre **seul** #tuyau un problème pqu'il ne savait pas résoudre au départ. 
 
+
+
+
+
+L'égalité des chances et l'égalité de traitement ne devraient plus être jugés comme suffisants car ils reproduisent les inégalités sociales. De fait, l'égalité de traitement ne permet pas de prendre avec des élèves avec du retard, des différences socio-culturelles les tirant vers le bas. 
+Il faut de l'équité, pas de l'égalité. 
+
+// ne pas connaitre
+Hypothèse relationnelle: comprendre pourquoi pour certains enfants issus de certains milieux scolaires, les enjeux d'un apprentissage ne sont pas clairs. Les approches traditionnelles mettent les élèves en activité mais sans comprendre pourquoi ils apprennent ça. Plus non est éloigné de la culture scolaire, plus une pédagogie "invisible", dans laquelle on suppose que les objectifs sont clairs seront au contraire moins compris. Pour cela qu'on parle davantage de l'enseignement explicite qui met l'emphase sur le sens de l'apprentissage. 
 
 
