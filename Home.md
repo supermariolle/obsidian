@@ -24,6 +24,10 @@
 > # [[B2 - Psychologie des apprentissages scolaires]]
 > # [[B2 - Physiologie]]
 > # [[B2Q1 - Synthèses]]
+> # [[B2 - Cognition et langage]]
+> # [[B2 - Physiologie II]]
+> # [[B2 - Psychopathologie générale]]
+> # [[B2 - Psychologie Environnementale]]
 
 
 ---

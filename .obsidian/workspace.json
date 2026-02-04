@@ -24,6 +24,90 @@
             }
           },
           {
+            "id": "061c09d89fc815c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B2 - Psychologie Environnementale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B2 - Psychologie Environnementale"
+            }
+          },
+          {
+            "id": "7556ca6b3e29a40a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B2 - Psychopathologie générale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B2 - Psychopathologie générale"
+            }
+          },
+          {
+            "id": "7805986e2c8bc0d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B2 - Physiologie II.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B2 - Physiologie II"
+            }
+          },
+          {
+            "id": "3a93baca20128cc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYSIO II - Chapitre 7 les phénomènes d'intégration nerveuse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PHYSIO II - Chapitre 7 les phénomènes d'intégration nerveuse"
+            }
+          },
+          {
+            "id": "2795df2a638601e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B2 - Cognition et langage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B2 - Cognition et langage"
+            }
+          },
+          {
+            "id": "4552a71cf2202ef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COG - 1 Intro mémoire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COG - 1 Intro mémoire"
+            }
+          },
+          {
             "id": "26cc05ad06764764",
             "type": "leaf",
             "state": {
@@ -71,16 +155,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SYS - QCM préparatoire.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SYS - QCM préparatoire"
+              "title": "Home"
+            }
+          },
+          {
+            "id": "176377f57ef4a507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B2- Psychologie du vieillissement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B2- Psychologie du vieillissement"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,13 +226,14 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3dcfc89bd62fef84",
@@ -147,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SYS - QCM préparatoire.md",
+                "file": "B2 - Psychologie Environnementale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +274,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of SYS - QCM préparatoire"
+              "title": "Graph of B2 - Psychologie Environnementale"
             }
           }
         ]
@@ -258,7 +357,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYS - QCM préparatoire.md",
+                "file": "B2 - Psychologie Environnementale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +367,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SYS - QCM préparatoire"
+              "title": "Backlinks for B2 - Psychologie Environnementale"
             }
           }
         ]
@@ -308,19 +407,38 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ff4052ffea48a239",
+  "active": "061c09d89fc815c4",
   "lastOpenFiles": [
-    "B2 - Psychologie systémique.md",
+    "Pasted image 20260203172950.png",
+    "Pasted image 20260203172418.png",
+    "25-26_intro&conceptsbase.pdf",
+    "B2 - Psychologie Environnementale.md",
     "Home.md",
+    "B2 - Psychopathologie générale.md",
+    "B2 - Physiologie II.md",
+    "Untitled.base",
+    "PHYSIO II - Chapitre 7 les phénomènes d'intégration nerveuse.md",
+    "Pasted image 20260203114821.png",
+    "Pasted image 20260203113937.png",
+    "Pasted image 20260203104931.png",
+    "24-25_Oc__aneP_Physio2_Synth__se.pdf 1.pdf",
+    "24-25_Oc__aneP_Physio2_Synth__se.pdf.pdf",
+    "COG - 1 Intro mémoire.md",
+    "B2 - Cognition et langage.md",
+    "Cours 01_Intro mémoire_web - Tagged.pdf",
+    "B2- Psychologie du vieillissement.md",
+    "Psychologie du vieillissement.md",
+    "Fondements méthodologiques.md",
+    "B2 - Psychologie biologique.md",
+    "SYS - QCM préparatoire.md",
+    "B2 - Psychologie systémique.md",
     "B2 - Psychologie des apprentissages scolaires.md",
     "B2Q1 - Synthèses.md",
     "B2Q1 - Psychologie des apprentissages scolaires.md",
     "_24-25__Ana__sA_Apprentissages_Synth__se.PDF.pdf",
     "PSYBIO - Addiction aux drogues et circuits cérébraux de la récompense.md",
-    "B2 - Psychologie biologique.md",
     "PSYBIO - Wooclap récap.md",
     "SYS - cybernétique appliquée à la thérapie familiale.md",
-    "SYS - QCM préparatoire.md",
     "INTEL - La créativité.md",
     "Pasted image 20251210164256.png",
     "B2 - Psychologie différentielle - Intelligence.md",
@@ -328,33 +446,15 @@
     "B2 - Psychologie de la santé.md",
     "DEON - Perquisition et accès au dossier.md",
     "SANTE - L'adhérence au traitement.md",
-    "PHYSIO - TEMP.md",
-    "PHYSIO - Système nerveux autonome.md",
-    "Le système nerveux.md",
-    "DEON - l'éthique en recherche.md",
-    "B2 - Déontologie.md",
-    "DEON - Le secret partagé.md",
-    "Untitled 5.md",
-    "B2- Psychologie du vieillissement.md",
-    "DEON - Code de déontologie.md",
     "251110 - Cours 7.pdf",
     "251117 - Cours 8.pdf",
     "251124 - Cours 9.pdf",
     "251201 - Cours 10.pdf",
-    "Lésions du système nerveux.pdf",
-    "CHAPITRE VI Système nerveux autonome.pdf",
     "Pasted image 20251125120403.png",
     "Pasted image 20251125113129.png",
     "Pasted image 20251125112327.png",
     "Pasted image 20251125111829.png",
     "Pasted image 20251125110818.png",
-    "Pasted image 20251125105655.png",
-    "Pasted image 20251125105601.png",
-    "Pasted image 20251125105504.png",
-    "Pasted image 20251124121737.png",
-    "PSYC5891 IIIC Principes d'organisation des systèmes sensoriels.pdf",
-    "PSYC5891 IIIB Le système auditif(1).pdf",
-    "Kivits  J. et Balard  F. (2016). Chapitre 2. La proble¿matisation ou l'importance de penser sa question de recherche.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",
