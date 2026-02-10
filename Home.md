@@ -28,6 +28,8 @@
 > # [[B2 - Physiologie II]]
 > # [[B2 - Psychopathologie générale]]
 > # [[B2 - Psychologie Environnementale]]
+> # [[B2 - Psychostatistiques]]
+> # [[B2 - Evidence Based Practice]]
 
 
 ---

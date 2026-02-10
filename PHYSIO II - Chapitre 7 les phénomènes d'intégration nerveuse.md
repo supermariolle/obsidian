@@ -113,3 +113,30 @@ Le cervelet reçoit ses infos de al proprioception, articulations, tendons.
 Le cervelet va dire "attention je ne peux pas me mettre sur ce pied car mon poids est de l'autre côté, je dois changer mon équilibre".
 Les noyaux basaux reçoivent les influx des aires corticales (aire prémotrice et cortex préfrontal).
 
+
+
+Plus on est au repos, plus nos ondes sont synchronisées. Si on stimule beaucoup (éveil), on verra une variation (<> synchronisé) de l'activité neuronale. 
+
+Types de sommeil
+
+![[Pasted image 20260206082338.png]]
+**Sommeil lent:**
+Traverse rapidement les 4 stades (60-90 minutes)
+Baisse de la fréquence du EEG
+augmentation de l'amplitude du EEG
+
+**Sommeil paradoxal** (remonte au stade 1)
+La fréquence cardiaque, pression artérielle augmente à nouveau (mais on reste endormi, d'où le paradoxal). Le corps est paralysé. 
+Les yeux bougent (REM)
+Associé aux rêves.
+Seuil d'éveil plus élevé
+Éveil spontané facile et souvenir des rêves.
+Phénomènes érectiles fréquents (on peut déterminer si il y a des érections nocturnes pour aider à détecter les troubles). 
+
+La *formation réticulée* ascendante joue un rôle actif. Il filtre les entrées sensitives.
+Noyau suprachiasmatique: horloge biologique
+
+Médiateur du sommeil: sérotonine.
+
+
+${\dfrac{1}{2}}$
