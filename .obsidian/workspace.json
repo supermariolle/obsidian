@@ -35,9 +35,22 @@
               "icon": "git-pull-request",
               "title": "Diff View (B2 - Psychométrie)"
             }
+          },
+          {
+            "id": "4e8b89d7fa054615",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,9 +275,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3328c3b0b380e2bd",
+  "active": "4e8b89d7fa054615",
   "lastOpenFiles": [
     "Home.md",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20260210121720.png",
+    "Pasted image 20260210105214.png",
+    "Pasted image 20260209164602.png",
+    "Pasted image 20260206144537.png",
+    "Pasted image 20260206082338.png",
+    "PYSIO II - Chapitre 8 - le système endocrinien.md",
+    "PSYC0085_2025-2026_séance1_Intro.pdf",
+    "EBP - Introduction.md",
+    "Cours 03b_MLT (remember-know)_web - Tagged.pdf",
+    "COG - 3 MLT procédure remember/know.md",
+    "COG - 3 MLT procédure remember",
+    "COG - 3 MLT procédure remember-know.md",
+    "COG - 3 MCT vs MLT.md",
+    "COG - 2 Mémoire de travail.md",
+    "B2 - Psychostatistiques.md",
+    "B2 - Evidence Based Practice.md",
+    "24-25_LinaB_Cognition_Langage_2_Synth__se.pdf.pdf",
     "Militantisme.md",
     "Perso.md",
     "METRIE - Supports de cours.md",
@@ -274,11 +305,7 @@
     "Chapitre 6.pdf",
     "Chapitre 5.pdf",
     "Chapitre 4 1.pdf",
-    "Chapitre 3 1.pdf",
-    "Chapitre 2.pdf",
-    "Chapitre 1.pdf",
     "B2 - Psychométrie.md",
-    "Untitled.base",
     "Pasted image 20260203172950.png",
     "Pasted image 20260203172418.png",
     "Pasted image 20260203114821.png",
@@ -296,20 +323,6 @@
     "B2 - Déontologie.md",
     "DEON - l'éthique en recherche.md",
     "DEON - Le secret professionnel.md",
-    "DEON - Les droits du patient.md",
-    "DEON - Lorsque la relation professionnelle est imposée par un tiers.md",
-    "DEON - Le cadre et le consentement.md",
-    "DEON - Code de déontologie.md",
-    "DEON - Empathie & sympathie.md",
-    "DEON - Ethique & Morale.md",
-    "Le Rhodes Livingstone Institute.md",
-    "SYS - QCM préparatoire.md",
-    "B2 - Psychologie systémique.md",
-    "Pasted image 20251210164256.png",
-    "Pasted image 20251125120403.png",
-    "Pasted image 20251125113129.png",
-    "Pasted image 20251125112327.png",
-    "Pasted image 20251125111829.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",

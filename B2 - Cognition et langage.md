@@ -2,7 +2,7 @@
 [[COG - 1 Intro mémoire]]
 [[COG - 2 Mémoire de travail]]
 [[COG - 3 MCT vs MLT]]
-[[COG - 3 MLT procédure remember/know]]
+[[COG - 3 MLT procédure remember-know]]
 [[COG - 4 Suite MLT]]
 [[COG - 5 Suite MLT priming]]
 [[COG - 5 Encodage]]
@@ -14,3 +14,6 @@
 [[COG - 12 Jugement]]
 [[COG - 13 prise de décision]]
 [[COG - 14-15 Raisonnement]]
+
+# Synthèse
+![[24-25_LinaB_Cognition_Langage_2_Synth__se.pdf.pdf]]
