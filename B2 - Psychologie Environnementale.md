@@ -2,6 +2,10 @@
 
 ![[25-26_intro&conceptsbase.pdf]]
 
+
+[[ENVI - Introduction à la psychologie évolutionnaire]]
+[[ENVI - Psychologie évolutionnaire]]
+
 15% de la population est individualiste et notre science est produite majoritairement par ces 15%. 
 On ne sait rien d'une partie extrêmement importante de la population mondiale, les 85%.
 

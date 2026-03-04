@@ -1,17 +1,11 @@
 Bac 2 Psycho
 
 # Synthèse
-
-# psychopathologie
-
-Prof : LAROI Franck
+![[_22-23__JulianeL_Psychopatho_Synth__se.pdf.pdf]]
 
 
-Lamberty Juliane et Sarah Lentz (avec aide
-synthèse de Sophia B)
-
-2022 - 2023
-
+[[PATHO - Troubles de l'humeur et suicide]]
+[[PATHO - Troubles anxieux liés aux traumatismes ou à des facteurs de stress, troubles obsessionnels-compulsifs et apparentés]]
 
 ## TABLE DES MATIERES
 

@@ -30,9 +30,8 @@
 > # [[B2 - Psychologie Environnementale]]
 > # [[B2 - Psychostatistiques]]
 > # [[B2 - Evidence Based Practice]]
+> # [[B2 - Psychométrie]]
 
-
----
 
 [[Green office de l'unif]]
 
