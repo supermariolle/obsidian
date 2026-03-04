@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ff8d0cfdf5aaa54",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f0ba080497f50679",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,157 +24,16 @@
             }
           },
           {
-            "id": "061c09d89fc815c4",
+            "id": "3328c3b0b380e2bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "B2 - Psychologie Environnementale.md",
-                "mode": "source",
-                "source": false
+                "file": "B2 - Psychométrie.md",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "B2 - Psychologie Environnementale"
-            }
-          },
-          {
-            "id": "7556ca6b3e29a40a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B2 - Psychopathologie générale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B2 - Psychopathologie générale"
-            }
-          },
-          {
-            "id": "7805986e2c8bc0d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B2 - Physiologie II.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B2 - Physiologie II"
-            }
-          },
-          {
-            "id": "3a93baca20128cc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYSIO II - Chapitre 7 les phénomènes d'intégration nerveuse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PHYSIO II - Chapitre 7 les phénomènes d'intégration nerveuse"
-            }
-          },
-          {
-            "id": "2795df2a638601e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B2 - Cognition et langage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B2 - Cognition et langage"
-            }
-          },
-          {
-            "id": "4552a71cf2202ef7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COG - 1 Intro mémoire.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "COG - 1 Intro mémoire"
-            }
-          },
-          {
-            "id": "26cc05ad06764764",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B2Q1 - Synthèses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B2Q1 - Synthèses"
-            }
-          },
-          {
-            "id": "0b5098345e9e2bf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B2Q1 - Psychologie des apprentissages scolaires.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B2Q1 - Psychologie des apprentissages scolaires"
-            }
-          },
-          {
-            "id": "e0365410d65ac800",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B2 - Psychologie des apprentissages scolaires.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B2 - Psychologie des apprentissages scolaires"
-            }
-          },
-          {
-            "id": "ff4052ffea48a239",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "176377f57ef4a507",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B2- Psychologie du vieillissement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B2- Psychologie du vieillissement"
+              "icon": "git-pull-request",
+              "title": "Diff View (B2 - Psychométrie)"
             }
           }
         ],
@@ -198,9 +57,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enseignement explicite",
+                "query": "discerne",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -226,10 +85,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           }
         ],
@@ -246,7 +105,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "B2 - Psychologie Environnementale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,14 +132,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of B2 - Psychologie Environnementale"
+              "title": "Vue graphique"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 272.5
   },
   "right": {
     "id": "8958fedcaa620e5c",
@@ -290,7 +148,7 @@
       {
         "id": "cb10153b7d2ab192",
         "type": "tabs",
-        "dimension": 47.74566473988439,
+        "dimension": 53.70370370370372,
         "children": [
           {
             "id": "4b5904ac5530bea0",
@@ -325,12 +183,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "Why men rebel.md"
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Why men rebel"
             }
           },
           {
@@ -349,7 +205,7 @@
       {
         "id": "b823bd895026eaab",
         "type": "tabs",
-        "dimension": 23.121387283236995,
+        "dimension": 23.14814814814814,
         "children": [
           {
             "id": "638e408a0fc9a855",
@@ -357,7 +213,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B2 - Psychologie Environnementale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +222,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for B2 - Psychologie Environnementale"
+              "title": "Rétroliens"
             }
           }
         ]
@@ -375,7 +230,7 @@
       {
         "id": "dcb560491107237e",
         "type": "tabs",
-        "dimension": 29.13294797687861,
+        "dimension": 23.14814814814814,
         "children": [
           {
             "id": "73a7e30836c00c59",
@@ -391,70 +246,70 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "061c09d89fc815c4",
+  "active": "3328c3b0b380e2bd",
   "lastOpenFiles": [
+    "Home.md",
+    "Militantisme.md",
+    "Perso.md",
+    "METRIE - Supports de cours.md",
+    "syllabus C. Monseur_2021_2022.pdf",
+    "Introduction_2024-2025.pdf",
+    "Chapitre 7.pdf",
+    "Chapitre 6.pdf",
+    "Chapitre 5.pdf",
+    "Chapitre 4 1.pdf",
+    "Chapitre 3 1.pdf",
+    "Chapitre 2.pdf",
+    "Chapitre 1.pdf",
+    "B2 - Psychométrie.md",
+    "Untitled.base",
     "Pasted image 20260203172950.png",
     "Pasted image 20260203172418.png",
-    "25-26_intro&conceptsbase.pdf",
-    "B2 - Psychologie Environnementale.md",
-    "Home.md",
-    "B2 - Psychopathologie générale.md",
-    "B2 - Physiologie II.md",
-    "Untitled.base",
-    "PHYSIO II - Chapitre 7 les phénomènes d'intégration nerveuse.md",
     "Pasted image 20260203114821.png",
     "Pasted image 20260203113937.png",
     "Pasted image 20260203104931.png",
-    "24-25_Oc__aneP_Physio2_Synth__se.pdf 1.pdf",
-    "24-25_Oc__aneP_Physio2_Synth__se.pdf.pdf",
+    "PHYSIO II - Chapitre 7 les phénomènes d'intégration nerveuse.md",
     "COG - 1 Intro mémoire.md",
+    "B2 - Psychopathologie générale.md",
+    "B2 - Psychologie Environnementale.md",
+    "B2 - Physiologie II.md",
     "B2 - Cognition et langage.md",
-    "Cours 01_Intro mémoire_web - Tagged.pdf",
-    "B2- Psychologie du vieillissement.md",
-    "Psychologie du vieillissement.md",
-    "Fondements méthodologiques.md",
-    "B2 - Psychologie biologique.md",
+    "INTEL - La créativité.md",
+    "B2 - Psychologie différentielle - Intelligence.md",
+    "INTEL - L'origine des différences individuelles.md",
+    "B2 - Déontologie.md",
+    "DEON - l'éthique en recherche.md",
+    "DEON - Le secret professionnel.md",
+    "DEON - Les droits du patient.md",
+    "DEON - Lorsque la relation professionnelle est imposée par un tiers.md",
+    "DEON - Le cadre et le consentement.md",
+    "DEON - Code de déontologie.md",
+    "DEON - Empathie & sympathie.md",
+    "DEON - Ethique & Morale.md",
+    "Le Rhodes Livingstone Institute.md",
     "SYS - QCM préparatoire.md",
     "B2 - Psychologie systémique.md",
-    "B2 - Psychologie des apprentissages scolaires.md",
-    "B2Q1 - Synthèses.md",
-    "B2Q1 - Psychologie des apprentissages scolaires.md",
-    "_24-25__Ana__sA_Apprentissages_Synth__se.PDF.pdf",
-    "PSYBIO - Addiction aux drogues et circuits cérébraux de la récompense.md",
-    "PSYBIO - Wooclap récap.md",
-    "SYS - cybernétique appliquée à la thérapie familiale.md",
-    "INTEL - La créativité.md",
     "Pasted image 20251210164256.png",
-    "B2 - Psychologie différentielle - Intelligence.md",
-    "SANTE - Étude de cas.md",
-    "B2 - Psychologie de la santé.md",
-    "DEON - Perquisition et accès au dossier.md",
-    "SANTE - L'adhérence au traitement.md",
-    "251110 - Cours 7.pdf",
-    "251117 - Cours 8.pdf",
-    "251124 - Cours 9.pdf",
-    "251201 - Cours 10.pdf",
     "Pasted image 20251125120403.png",
     "Pasted image 20251125113129.png",
     "Pasted image 20251125112327.png",
     "Pasted image 20251125111829.png",
-    "Pasted image 20251125110818.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",
