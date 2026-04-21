@@ -45,7 +45,7 @@ Les gens rapportent des items du schéma "bureau", comme des livres alors qu'il 
 
 
 
-Suggestibilité
+# Suggestibilité
 Des sources d'information externes peuvent influencer nos souvenirs d'événements. 
 
 Groupe désinformé: 48%  des participants qui ont reçu une désinformation choisissent une teinte bleue.
@@ -77,3 +77,21 @@ Identification de suspects (le suspect est absent)
 
 Note: les jurés peuvent être influencés par la confiance de la victime. 
 
+## Réactivation
+Chan et al, problème de la réactivation
+les participants visionnent une séquence de la série tv « 24 heures »
+Ils sont ensuite divisés en 2 groupes :
+- groupe contrôle : jouent à Tetris
+- groupe expé : répondent à une tâche de rappel indicé (liste d’objets présents dans la
+séquence
+Les deux groupes écoutent ensuite un audio comportant des fausses informations ; puis à
+nouveau la tâche de rappel indicé
+Résultats : Les personnes qui ont été testées directement après la séquence vont avoir
+tendance à faire + d’erreur que les personnes qui jouaient à Tetris (50% d’erreurs contre 30%)
+
+Le fait de répondre à des questions sur l'épisode réactive des souvenirs. Au moment de répondre, on n'est pas certain de nos réponses. Réentendre l'audio avec distortions va influencer les souvenirs car **==ils ont été réactivés MAIS altérés lors de la réactivation.==** 
+
+
+Il vaut mieux utiliser des parades d'identification dans lesquelles toutes les personnes se ressemblent. Quand le coupable n'est pas parmi les choix, la similarité élevée permet de diminuer les risques d'erreurs. 
+
+Préférable de montrer les suspects séquentiellement pour éviter les jugements relatifs.

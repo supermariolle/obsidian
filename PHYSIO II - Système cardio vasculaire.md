@@ -280,6 +280,102 @@ Plasma:
 	- lipides
 	- produits azotés
 
-Vitamine: doit être trouvé dans l'alimentation pas produit par le corps. 
+Vitamine: doit être trouvée dans l'alimentation pas produit par le corps. 
+
+Hématopoiese: héma = sang; poiein = faire
+Avant la naissance, on fait l'hématopoïèse dans le foie, la rate et la moelle osseuse.
+Après, on la fait dans la moelle osseuse. Os longs chez les enfants (fémur), os plats à l'âge adulte (omoplate, sternum, côtés, crânes, bassin). 
+
+Globules rouges (hématie, erythrocytes), les globules rouges ont à peu près la taille des capillaires. Ils doivent se déformer pour passer. 
+On forme des milions de globules rouges par seconde. 5.000.000/mm$^3$. 
+Il n'y a pas d'organites dans un GR: il contient 95% d'hémoglobine. GB = sac d'hémoglobine.
+**hème:** 4 sous-unités: 2 paires de globines, 2 alpha, 2 bêta. Au centre, l'hème, constitué d'un noyau orphérie (fer). Un fer peut fixer une molécule d'oxygène.
+1 molécule d'hémoglobine transporte 4 atomes de fer, 4 atomes d'oxygène. 
+
+**Anémie**: manque d'hémoglobine. 
+==Causes: ==
+- Carence en fer
+- insuffisance de production d'érythropoïétine
+- perte sanguine (hémorragie, règles)
+- trouble de la moelle
+Sources de fer: 
+- viande rouge (fer hémique, mieux absorbés)
+- céréales, fruits, légumes (fer non-hémiques, moins bien absorbés)
 
 
+Groupes sanguins:
+Glucides posés sur des globules rouges. 
+Si on est A, on a l'anticoprs anti-B
+Si on est B, on a l'anticoprs anti-A
+Si on est AB, on n'a pas d'anticorps
+Si on est O, on a l'anticoprs anti-A et anti-B
+
+Dans une transfusion, on transfuse uniquement les globules rouges, pas les anticorps. Pour ça, O est donneur universel. AB sont receveurs universels. 
+
+Asthme
+Réduction du diamètre des muscles lisses (bronchoconstriction).
+Causé par une allergie (molécule stamine).
+Les bronches se referment trop à l'expiration;
+L'antistaminique va se poser sur les récepteurs bêta 2 pour déclencher la dilatation des voies respiratoires.
+
+La tension superficielle: à la surface d'un liquide et d'un gaz, les molécules de liquide sont plus fortement attirées les unes par les autres que les molécules de gaz.
+
+Surfactant: cellule de type II 
+Surfactant réduit la tension superficielle du liquide alvéolaire (eau dans les alvéoles) et donc la compliance. Présentes dès la naissance mais pas encore chez les grands prématurés. Elles sont matures à la 36ème semaine, (40.5ème semaine pour la naissance en moyenne, ~50cm).
+Pour ouvrir les alvéoles, il faut un plus grand effort pour respirer sans surfactants -> détresses respiratoires majeures. 
+
+## Volume respiratoire
+~500ml au repos
+~3-4L au total
+**Volume de réserve inspiratoire:** 3100ml (tout ce que je peux inspirer en plus de ma respiration normale)
+**Volume de réserve expiratoire**: 1200ml  (tout ce que je peux expirer en plus de ma respiration normale).
+**Volume résiduel**: 1200ml 
+
+**Capacité vitale**: total d'air exploitable par inspiration/expiration maximum (exclu le volume résiduel qu'on ne sait pas expirer).
+**Capacité inspiratoire**: (volume courant + volume de réserve inspiration)
+**Capacité résiduelle fonctionnelle**: réserve d'expiration (1200ml) + volume résiduel (1200ml)
+
+Volume pulmonaire est fonction de: âge, sexe, taille
+
+
+Si à chaque expiration je prends 1L au lieu de 500ml, 12 fois (durant une minute), je respire 6L d'air sur la minute.
+**Espace mort**: 150ml. Volume qui ne permet pas d'amener de l'air dans les poumons si il n'est pas retiré à chaque expiration.
+Si je halète, 300ml 20 fois: (300 -150) * 20 = 3L
+
+
+## Pression gazeuse
+**Loi de Dalton**: la pression d'un gaz est égal à la somme des pressions des gaz qui le composent, selon la quantité de chaque gaz.
+L'air (~760mmHg) est la somme de l'azote (590mmHg), l'O2 (150mmHg), le CO2 (~3mmHg) et les autres gaz (0,? mmHg)qui le composent
+
+**Gradient de concentration:** L'O2 et le CO2 suivent leur gradient de concentration. Les gaz sont liposolubles et passent à travers les membranes. Les mouvements gazeux sont donc des phénomènes rapides. 
+Le CO2, produit dans les cellules aura une pression élevée dans les cellules et va donc aller dans le sang, puis du sang aux alvéoles, puis des alvéoles à l'air. **Uniquement par le gradient de concentration.** 
+
+
+Hyperventilation
+Quand j'hyperventile, l'air à 21% d'O2 va rentrer dans les poumons. Je vais aussi éliminer plus de CO2. 
+L'hyperventilation a un effet semblable de ~20mmHg => diminue le CO2 de 20mmHg et augmente l'O2 de ~20mmHg.
+Le plongeur va diminuer son C02 alvéolaire en hyperventilant car le CO2 déclenche le réflexe respiratoire. 
+
+**oxygénation lors du sport**
+Il faut 0.25 secondes pour passe d'un sang veineux (CO2 élevé) à un sang artériel (O2 élevé). 
+mon débit cardiaque peut faire X6: de 5 à 30 lors d'un effort. 
+Au lieu de mettre 0,25 secondes => 0,12 secondes. ==Il ne serait donc pas oxygéné complétement.== Solution: on augmente la surface d'échange. Au repos, les échanges se font essentiellement dans le bas des poumons. 
+Durant un effort, ==le sang monte jusque dans le haut des poumons==, augmentant la surface d'échange. ~140m² de surface d'échange dans les poumons. 
+
+**Couplage ventilation-perfusion**
+Un endroit ventilé mais pas perfusé (sang) n'amènera pas d'O2 dans le sang.
+Inversement, un endroit veineux mais pas ventilé n'amènera pas d'O2 dans le sang.
+
+**Adaptation à un manque de perfusion/ventilation**
+Une embolie pulmonaire pourrait réduire la perfusion (apport de sang autour) d'une alvéole. La réponse serait donc de diminuer la ventilation de l'alvéole pour laisser l'air arriver vers les alvéoles bien ventilées/perfusées. 
+
+**Loi de Henry**
+Les globules rouges contiennent l'hémoglobine, qui a une forte attirance pour l'oxygène. 
+Peut-on augmenter la pression partielle de l'oxygène? Oui, si il est mis sous respirateur, on lui donne un air enrichi en oxygène.
+
+
+**Hémoglobine**
+Affinité faible (je le tiens faiblement) donc il libère l'O2 facilement. 
+la saturation de l'hémoglobine est exprimée en %, décrivant combien d'atomes d'O2 sont attachés à l'hémoglobine. 
+
+Lorsque la pression partielle en oxygène augmente, la saturation de l'hémoglobine augmente car l'affinité de l'hémoglobine pour l'O2 augmente. 

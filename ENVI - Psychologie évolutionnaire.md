@@ -100,3 +100,51 @@ Un ensemble de gènes va de paire avec le fait d'être homo.
 
 
 
+**Le viol:** est-il un byproduct pour essayer de forcer la transmission des gènes aux générations suivantes. 
+
+**==Dark triad==**
+narcissisme
+machiavélisme
+psychopathie
+
+Traits de personnalité, ouverture à une sexualité plus open, surestimation des ouvertures par les hommes. 
+
+Blâmer, dénoncer n'est pas suffisant; il faut travailler ensemble pour expliquer. Il faut le discours de la personne en face au lieu de chercher des réponses dans des discours tout construits. 
+On veut fonctionner ensemble et ça se travaille. 
+
+Nombre de partenaires (souhaités?):
+3 pour les couples de femmes
+15 pour les couples hétéros
+700 pour les couples gays
+
+Pressions sélectives: pression sur un partenaire pour s'adapter aux exigences de l'autre partenaire. 
+
+
+Il y a 100x plus de chances d'être violenté par un beau parent. Surtout par les beaux-pères. 
+C'est le plus grand facteur prédictif de maltraitance, déduit après 20 ans de recherche. 
+
+**==Obésité==**
+==> Il y a une préférence innée pour le gras et le sucre.
+
+Campagnes de santé publique: marche pas
+Contrôler ce que les gens mangent: fonctionne car on change l'environnement
+
+C'est une culpabilité qu'il n'y a pas à avoir. On a évolué comme ça donc il faut arrêter de culpabiliser. 
+Les singes apprécient l'alcool et ont les mêmes tendances de dépendances que les humains. 
+Lorsuq'il y avait moins d'arbres fruitiers, les singes et humains ont du manger des fruits très murs et fermentés (alcool). Une enzyme a donc permis de mieux manger les fruits fermentés, alcoolisés. 
+Des chercheurs observent que les chimpanzés mangent une quantité de fruits fermentés équivalents à la quantité d'alcool qu'ils apprécient (1,5 verres). 
+Apéro: on partage nos fruits fermentés et a permis de créer des liens sociaux. On observe des similarités entre hommes/singes et ceux qui boivent beaucoup sont considérés comme les chefs (savoir encaisser).
+
+L'amour de l'éthanol était un mécanisme de survie. 
+
+**T'as qu'à moins boire**
+Ce qui est le plus efficace est la disponibilité. On modifie l'environnement. 
+
+> [!info] Il est toujours meilleur de changer l'environnement plutôt que de compter sur la volonté simple.
+
+> *"L'homme est naturellement bon, c'est la société qui le corrompt."* - Rousseau
+
+=> bof bof. 
+Bon = moralité, pas survie.
+Société = elle n'invente rien mais renforce la nature. Auquel cas, la cause profonde n'est pas la société. 
+

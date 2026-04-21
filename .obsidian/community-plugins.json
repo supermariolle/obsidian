@@ -10,5 +10,9 @@
   "no-dupe-leaves",
   "obsidian-wikipedia",
   "obsidian-timeline",
-  "homepage"
+  "homepage",
+  "ob2static-site",
+  "webpage-html-export",
+  "better-export-pdf",
+  "lexicon-dictionary"
 ]

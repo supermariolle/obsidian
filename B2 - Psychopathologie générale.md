@@ -6,6 +6,11 @@ Bac 2 Psycho
 
 [[PATHO - Troubles de l'humeur et suicide]]
 [[PATHO - Troubles anxieux liés aux traumatismes ou à des facteurs de stress, troubles obsessionnels-compulsifs et apparentés]]
+[[PATHO - Troubles liés à une substance]]
+[[PATHO - Triple vulnérabilité aux troubles anxieux]]
+[[PATHO - Le sommeil]]
+[[Patho - Les troubles de la personnalité]]
+[[PATHO - Troubles de la sexualité]]
 
 ## TABLE DES MATIERES
 

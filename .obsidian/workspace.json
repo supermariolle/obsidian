@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26f7083fb5a2d3f1",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "fd4c1cb57ecfd222",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,77 +24,71 @@
             }
           },
           {
-            "id": "59b36279060a5ef0",
+            "id": "ae5518b6a520d4b8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "METRIE - Synthèse perso.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "METRIE - Synthèse perso"
+            }
+          }
+        ]
+      },
+      {
+        "id": "33e5ee0e33eeab65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c41bef6144c87d89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B2 - Psychopathologie générale.md",
+                "file": "B2 - Psychostatistiques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B2 - Psychopathologie générale"
+              "title": "B2 - Psychostatistiques"
             }
           },
           {
-            "id": "894d653db279ff44",
+            "id": "87f500e7a9e13d9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PATHO - Troubles anxieux liés aux traumatismes ou à des facteurs de stress, troubles obsessionnels-compulsifs et apparentés.md",
+                "file": "STAT2 - Chapitre 9 - L'interprétation des résultats statistiques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PATHO - Troubles anxieux liés aux traumatismes ou à des facteurs de stress, troubles obsessionnels-compulsifs et apparentés"
+              "title": "STAT2 - Chapitre 9 - L'interprétation des résultats statistiques"
             }
           },
           {
-            "id": "98eabfad037b7faa",
+            "id": "cf139f56cad6dacc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENVI - Introduction à la psychologie évolutionnaire.md",
+                "file": "Module 7 - Devis expérimentaux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ENVI - Introduction à la psychologie évolutionnaire"
-            }
-          },
-          {
-            "id": "b6acb53195353216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENVI - Psychologie évolutionnaire.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ENVI - Psychologie évolutionnaire"
-            }
-          },
-          {
-            "id": "9ba63caf257dcc23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B2 - Psychométrie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B2 - Psychométrie"
+              "title": "Module 7 - Devis expérimentaux"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,15 +108,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "K+",
-                "matchingCase": false,
+                "query": "quasi-",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -145,11 +139,10 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3dcfc89bd62fef84",
@@ -162,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "B2 - Psychométrie.md",
+                "file": "STAT2 - Chapitre 9 - L'interprétation des résultats statistiques.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,14 +183,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of B2 - Psychométrie"
+              "title": "Graphique de STAT2 - Chapitre 9 - L'interprétation des résultats statistiques"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 224.5
   },
   "right": {
     "id": "8958fedcaa620e5c",
@@ -273,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B2 - Psychométrie.md",
+                "file": "STAT2 - Chapitre 9 - L'interprétation des résultats statistiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +276,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for B2 - Psychométrie"
+              "title": "Rétrolien pour STAT2 - Chapitre 9 - L'interprétation des résultats statistiques"
             }
           }
         ]
@@ -307,70 +300,75 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "ob2static-site:Current file - Static Site MD Export": false,
+      "ob2static-site:All files - Static Site MD Export": false,
+      "webpage-html-export:Export as HTML": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "lexicon-dictionary:Lexicon dictionary": false
     }
   },
-  "active": "9ba63caf257dcc23",
+  "active": "87f500e7a9e13d9a",
   "lastOpenFiles": [
-    "Home.md",
-    "ENVI - Psychologie évolutionnaire.md",
-    "Militantisme.md",
-    "METRIE - Supports de cours.md",
-    "Introduction_2024-2025.pdf",
-    "Chapitre 7.pdf",
-    "Chapitre 6.pdf",
-    "Chapitre 5.pdf",
-    "Chapitre 4 1.pdf",
-    "Chapitre 3 1.pdf",
-    "Chapitre 2.pdf",
-    "Chapitre 1.pdf",
-    "ENVI - Introduction à la psychologie évolutionnaire.md",
-    "B2 - Psychologie Environnementale.md",
-    "PATHO - Troubles anxieux liés aux traumatismes ou à des facteurs de stress, troubles obsessionnels-compulsifs et apparentés.md",
-    "B2 - Psychopathologie générale.md",
-    "PHYSIO II - Système cardio vasculaire.md",
-    "PHYSIO - Propriétés des membranes.md",
-    "Pasted image 20260303120910.png",
-    "Les régulations hormonale.md",
-    "Pasted image 20260303112334.png",
-    "B2 - Physiologie II.md",
-    "PHYSIO II - Chapitre 7 les phénomènes d'intégration nerveuse.md",
-    "PHYSIO II - Chapitre 8 - le système endocrinien.md",
-    "B2 - Physiologie.md",
-    "COG - 8-9 Erreurs en mémoire.md",
-    "B2 - Cognition et langage.md",
-    "STAT2 - Exercices récap.md",
     "B2 - Psychostatistiques.md",
-    "EBP - Pubmed.md",
-    "Pasted image 20260227142625.png",
-    "B2 - Evidence Based Practice.md",
-    "Pasted image 20260227090239.png",
-    "STAT2 - Chapitre 3 - Comparaisons multiples entre des moyennes de traitement.md",
-    "STAT2 - Chapitre 2 - L'analyse de variance à un critère de classification.md",
-    "Chapitre 3_stat2.pdf",
-    "Pasted image 20260225154813.png",
-    "METRIE - Chapitre 1 Problématique de la mesure.md",
-    "Chapitre 1 - problématiques de la mesure.pdf",
+    "Module 7 - Devis expérimentaux.md",
+    "Efficacité du redoublement.md",
+    "STAT2 - Chapitre 9 - L'interprétation des résultats statistiques.md",
+    "Home.md",
+    "METRIE - Synthèse perso.md",
+    "Vocabulary/lexicon.md",
+    "Vocabulary",
+    "ENVI - La rhétorique de l'information.md",
+    "Autoécole.md",
+    "B2 - Psychologie Environnementale.md",
+    "Mécanique.md",
+    "Perso.md",
+    "syllabus C. Monseur_2021_2022 (1).pdf",
     "B2 - Psychométrie.md",
-    "METRIE - Psychométrie et édumétrie.md",
-    "Pasted image 20260224115019.png",
-    "Pasted image 20260224113534.png",
-    "Pasted image 20260218162252.png",
-    "Pasted image 20260218160916.png",
-    "Pasted image 20260211155846.png",
+    "METRIE - Chapitre 1 Problématique de la mesure.md",
+    "COG - 14-15 Raisonnement.md",
+    "B2 - Cognition et langage.md",
+    "M2TRIE - Chapitre 7. La validité.md",
+    "Synthèse.md",
+    "B2Q1 - Synthèses.md",
+    "PATHO - Troubles de la sexualité.md",
+    "B2 - Psychopathologie générale.md",
+    "LANG - MCT prof annexe.md",
+    "EBP - Norme APA.md",
+    "B2 - Evidence Based Practice.md",
+    "STAT2 - Chapitre 7 - Techniques particulières de corrélation.md",
+    "output.html",
+    "Crise environnementale.md",
+    "Pasted image 20260408114234.png",
+    "Pasted image 20260408111433.png",
+    "Cours 13. Prise de décision_web - Tagged.pdf",
+    "Pasted image 20260401114419.png",
+    "metrie - Chapitre 6.pdf",
+    "Pasted image 20260401110635.png",
+    "metrie - Chapitre 5.pdf",
+    "Pasted image 20260328134536.png",
+    "Pasted image 20260326150652.png",
+    "Anova mixtes.pdf",
+    "Anova mesure répétées.pdf",
+    "Stats II - arbres/Tables_Puissance.pdf.pdf",
+    "Stats II - arbres/Table_Tukey.pdf.pdf",
+    "Pasted image 20260313142033.png",
+    "Pasted image 20260310141356.png",
+    "Pasted image 20260303120910.png",
+    "Pasted image 20260303112334.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",

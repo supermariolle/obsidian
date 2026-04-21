@@ -21,3 +21,5 @@ Test critérié: le score est interprétable seul (18/20) car la mesure n'est pa
 
 Si mes erreurs de mesures sont très faibles, plus je vais sous-estimer la variabilité de la performance
 **Plus une mesure comporte des imperfections, plus je vais sous-estimer les corrélations.** 
+
+Les erreurs de mesure de ma VD n'affectent pas le coefficient de régression mais bien son erreur-type. 

@@ -14,6 +14,8 @@
 [[COG - 12 Jugement]]
 [[COG - 13 prise de décision]]
 [[COG - 14-15 Raisonnement]]
+[[LANG - Reconnaissance orale des mots]]
+[[LANG - MCT prof annexe]]
 
 # Synthèse
 ![[24-25_LinaB_Cognition_Langage_2_Synth__se.pdf.pdf]]
