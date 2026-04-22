@@ -34,7 +34,7 @@
 > # [[B2 - Psychométrie]]
 
 [[Séance info masters]]
-[[Green office de l'unif]]
+[[Green office de l'unif]]**
 
 ## [[Questions de philosophie]]
 ## [[Psychologie sociale]]

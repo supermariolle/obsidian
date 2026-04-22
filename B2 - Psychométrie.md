@@ -10,7 +10,7 @@ Christian Monseur
 [[METRIE - Chapitre 4]]
 [[METRIE - Chapitre 5. Théorie classique du score vrai]]
 [[METRIE - Chapitre 6. Modèles de réponse à l'item (MRI)]]
-[[M2TRIE - Chapitre 7. La validité]]
+[[METRIE - Chapitre 7. La validité]]
 
 
 

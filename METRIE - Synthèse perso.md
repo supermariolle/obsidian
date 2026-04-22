@@ -17,6 +17,8 @@ Difficultés de la mesure:
 
 Édumétrie ("édu" pour éducation): étude quantitative des variables relatives aux apprentissages suscités par l'éducation. 
 
+
+**Variable latente**: Une variable qu'on ne sait pas observer directement mais qui a une influence sur notre mesure. 
 ## 3 types d'erreurs
 ==Erreur d'ancrage==: pour observer une évolution, il faut que le pré-test et le post-test puissent rapporter leurs résultats sur une même échelle; le post-test doit être "ancré" dans le pré-test. 
 L'erreur d'ancrage peut donc être assimilé à la variabilité du changement due à la sélection des items communs. 
