@@ -2,7 +2,7 @@
   "anuppuccin-theme-settings@@anp-toggle-preview": true,
   "anuppuccin-theme-settings@@anp-cursor": "pointer",
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
-  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-rosewater",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-sapphire",
   "anuppuccin-theme-settings@@anp-custom-vault-toggle": false,
   "anuppuccin-theme-settings@@anp-collapse-folders": false,
   "anuppuccin-theme-settings@@anp-floating-header": false,
@@ -20,9 +20,11 @@
   "anuppuccin-theme-settings@@anp-bg-fix": false,
   "anuppuccin-theme-settings@@anp-hide-borders": false,
   "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
-  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
   "anuppuccin-theme-settings@@anp-file-label-align": "0",
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
-  "anuppuccin-theme-settings@@anp-hide-external-link-icon": false
+  "anuppuccin-theme-settings@@anp-hide-external-link-icon": false,
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-mauve",
+  "anuppuccin-theme-settings@@anp-header-divider-color-toggle": false
 }

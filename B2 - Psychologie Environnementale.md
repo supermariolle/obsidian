@@ -8,6 +8,7 @@
 [[ENVI - Changement climatique, santé mentale et stratégies de resilience]]
 [[Crise environnementale]]
 [[ENVI - La rhétorique de l'information]]
+[[ENVI - théories des attitudes et comportements - TANIA]]
 
 15% de la population est individualiste et notre science est produite majoritairement par ces 15%. 
 On ne sait rien d'une partie extrêmement importante de la population mondiale, les 85%.

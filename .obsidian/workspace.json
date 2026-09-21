@@ -32,8 +32,33 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "a93fa1b7bf22c7d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Culture"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,15 +78,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "discerne",
-                "matchingCase": false,
-                "explainSearch": true,
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -81,14 +106,13 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3dcfc89bd62fef84",
@@ -101,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Culture.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,14 +153,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Home"
+              "title": "Graphe local"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 224.5
   },
   "right": {
     "id": "8958fedcaa620e5c",
@@ -145,7 +169,7 @@
       {
         "id": "cb10153b7d2ab192",
         "type": "tabs",
-        "dimension": 53.70370370370372,
+        "dimension": 47.74566473988439,
         "children": [
           {
             "id": "4b5904ac5530bea0",
@@ -180,10 +204,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why men rebel.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Why men rebel"
+              "title": "Outline"
             }
           },
           {
@@ -202,7 +228,7 @@
       {
         "id": "b823bd895026eaab",
         "type": "tabs",
-        "dimension": 23.14814814814814,
+        "dimension": 23.121387283236995,
         "children": [
           {
             "id": "638e408a0fc9a855",
@@ -210,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +246,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Home"
+              "title": "Rétroliens"
             }
           }
         ]
@@ -228,7 +254,7 @@
       {
         "id": "dcb560491107237e",
         "type": "tabs",
-        "dimension": 23.14814814814814,
+        "dimension": 29.13294797687861,
         "children": [
           {
             "id": "73a7e30836c00c59",
@@ -244,11 +270,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 438
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -256,58 +281,62 @@
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Créer une nouvelle base": false,
+      "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false
+      "ob2static-site:Current file - Static Site MD Export": false,
+      "ob2static-site:All files - Static Site MD Export": false,
+      "webpage-html-export:Export as HTML": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "lexicon-dictionary:Lexicon dictionary": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "22fddcb8fdffb5b3",
   "lastOpenFiles": [
     "Home.md",
-    "METRIE - Synthèse perso.md",
+    "ENVI - La rhétorique de l'information.md",
+    "Pasted image 20260614155109.png",
+    "ENVI - théories des attitudes et comportements - TANIA.md",
+    "B2 - Psychologie Environnementale.md",
+    "STAT2 - Chapitre 3 - Comparaisons multiples entre des moyennes de traitement.md",
+    "B2 - Psychostatistiques.md",
+    "PATHO - Troubles neurodéveloppementaux.md",
+    "Cours_TND_Bac2.pdf",
+    "B2 - Psychopathologie générale.md",
+    "METRIE - Exercices recap.md",
     "B2 - Psychométrie.md",
+    "STAT2 - Effets dans les graphiques.md",
+    "signal-2026-05-11-094218.jpeg",
+    "signal-2026-05-11-085628_002.jpeg",
+    "signal-2026-05-11-085140.jpeg",
+    "signal-2026-05-11-083025.jpeg",
+    "STAT2 - Chapitre 2 - L'analyse de variance à un critère de classification.md",
+    "STAT2 - Chapitre 4 - L'anova factorielle.md",
+    "STAT2 - Arbre décisionnel.md",
+    "METRIE - Chapitre 5. Théorie classique du score vrai.md",
+    "Conseils Examen.md",
+    "Psycho/Psychostatistiques/Psychostatistiques.md",
+    "24-25_LinaB_Psychom__trie_Synth__se.pdf.pdf",
     "METRIE - Chapitre 7. La validité.md",
-    "Séance info masters.md",
-    "La méthode Judith Butler - Le cas Britney Spears.md",
-    "Questions de philosophie.md",
-    "syllabus C. Monseur_2021_2022 (1).pdf",
-    "metrie - Chapitre 6.pdf",
-    "metrie - Chapitre 5.pdf",
-    "exportMdFileToHtml.py",
+    "STAT2 - Chapitre 9 - L'interprétation des résultats statistiques.md",
+    "Module 7 - Devis expérimentaux.md",
+    "Efficacité du redoublement.md",
+    "METRIE - Synthèse perso.md",
     "Vocabulary/lexicon.md",
     "Vocabulary",
-    "Stats II - arbres/Tables_Puissance.pdf.pdf",
-    "Stats II - arbres/Table_z.pdf.pdf",
-    "Stats II - arbres/Table_t.pdf.pdf",
-    "Stats II - arbres/Table_r_Spearman.pdf.pdf",
-    "Stats II - arbres/Table_r.pdf.pdf",
-    "STAT2 - Chapitre 9 - L'interprétation des résultats statistiques.md",
-    "STAT2 - Chapitre 7 - Techniques particulières de corrélation.md",
-    "STAT2 - Chapitre 6 - Analyse de variance pour plans mixtes - ANOVA mixtes.md",
-    "STAT2 - Chapitre 5 - Anova à mesures répétées - intra-sujets.md",
-    "STAT2 - Chapitre 4.md",
-    "Patho - Les troubles de la personnalité.md",
+    "Autoécole.md",
+    "Mécanique.md",
+    "syllabus C. Monseur_2021_2022 (1).pdf",
+    "output.html",
     "Pasted image 20260408114234.png",
     "Pasted image 20260408111433.png",
+    "Cours 13. Prise de décision_web - Tagged.pdf",
     "Pasted image 20260401114419.png",
+    "metrie - Chapitre 6.pdf",
     "Pasted image 20260401110635.png",
+    "metrie - Chapitre 5.pdf",
     "Pasted image 20260328134536.png",
-    "Pasted image 20260326150652.png",
-    "Pasted image 20260313142033.png",
-    "Pasted image 20260310141356.png",
-    "PATHO - Troubles liés à une substance.md",
-    "PATHO - Troubles de la sexualité.md",
-    "PATHO - Triple vulnérabilité aux troubles anxieux.md",
-    "PATHO - Le sommeil.md",
-    "Mécanique.md",
-    "METRIE - Chapitre 6. Modèles de réponse à l'item (MRI).md",
-    "METRIE - Chapitre 5. Théorie classique du score vrai.md",
-    "METRIE - Chapitre 4.md",
-    "METRIE - Chapitre 2 Psychométrie et édumétrie.md",
-    "LANG - Reconnaissance orale des mots.md",
-    "LANG - MCT prof annexe.md",
-    "ENVI - La rhétorique de l'information.md",
-    "Pasted image 20260303120910.png",
-    "Pasted image 20260303112334.png",
+    "Anova mixtes.pdf",
+    "Anova mesure répétées.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",

@@ -12,6 +12,7 @@ Publicité française qui incite à acheter une voiture électrique contre une d
 **Punition**: plus on pollue, plus on paie un malus. Parfois, on paie sa voiture double à cause de ce malus. 
 
 # Les dragons de l'inaction
+![[Pasted image 20260614155109.png]]
 Les erreurs, biais de raisonnement qui font que les campagnes de propagande basées sur l'individu manquent leurs buts parce qu'il y a des mécanismes protecteurs; l'humain va mettre en oeuvre des mécanismes pour éviter le changement, pour rester dans ses habitudes/traditions. 
 **==Se fier à la volonté des individus est peu efficace car on a une tendance à se satisfaire du status quo.==**
 

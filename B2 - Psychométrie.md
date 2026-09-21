@@ -14,6 +14,9 @@ Christian Monseur
 
 
 
+[[METRIE - Exercices recap]]
+[[METRIE]]
+
 # Syllabus
 ![[syllabus C. Monseur_2021_2022.pdf]]
 
@@ -22,3 +25,5 @@ Avec une variable nominale on calcule des fréquences
 Avec deux variables nominales, on peut voir si on trouve une variable d'association entre les deux variables en utilisant le khi carré ou le ??
 
 [[METRIE - Supports de cours]]
+
+![[24-25_LinaB_Psychom__trie_Synth__se.pdf.pdf]]

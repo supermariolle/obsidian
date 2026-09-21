@@ -9,6 +9,9 @@
 [[STAT2 - Chapitre 7 - Techniques particulières de corrélation]]
 [[STAT2 - Chapitre 8 - Non vu au cours]]
 [[STAT2 - Chapitre 9 - L'interprétation des résultats statistiques]]
+[[STAT2 - Effets dans les graphiques]]
+
+[[STAT2 - Arbre décisionnel]]
 # Rappels
 **Statistique descriptive**: décrit un ensemble de données (moyenne, variance, corrélation, régression)
 **Statistique inférentielle:** permet de tirer des conclusions générales à partir d'un échantillon limité.

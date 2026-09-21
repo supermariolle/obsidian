@@ -1,8 +1,3 @@
-Bac 2 Psycho
-
-# Synthèse
-![[_22-23__JulianeL_Psychopatho_Synth__se.pdf.pdf]]
-
 
 [[PATHO - Troubles de l'humeur et suicide]]
 [[PATHO - Troubles anxieux liés aux traumatismes ou à des facteurs de stress, troubles obsessionnels-compulsifs et apparentés]]
@@ -11,6 +6,12 @@ Bac 2 Psycho
 [[PATHO - Le sommeil]]
 [[Patho - Les troubles de la personnalité]]
 [[PATHO - Troubles de la sexualité]]
+[[PATHO - Troubles neurodéveloppementaux]]
+# Synthèse
+![[_22-23__JulianeL_Psychopatho_Synth__se.pdf.pdf]]
+
+
+
 
 ## TABLE DES MATIERES
 
