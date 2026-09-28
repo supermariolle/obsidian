@@ -9,7 +9,34 @@
     --h4-size: 1.3em;
     --h5-size: 1.15em;
     --h6-size: 1em;
+    --background-opacity: rgba(var(--ctp-ext-base, 36, 39, 58 ), 0.4);
 }
+
+
+.pdf-embed[alt*="page"] .pdf-viewer-container {
+  overflow: hidden;
+}
+
+
+/* page editor layout */
+.cm-sizer {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  margin-top: 0rem;
+  margin-bottom: 1rem;
+  background-color: var(--background-primary);
+  padding: 2rem;
+  box-shadow: 0 0 10px #2e2c2c;
+  border-radius: 5px;
+}
+
+.cm-scroller {
+  background-color: var(--background-opacity);
+}
+.cm-editor {
+  background-color: white;
+}
+
 
 
 /* Custom elements */

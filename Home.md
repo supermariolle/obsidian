@@ -33,6 +33,19 @@
 > # [[B2 - Evidence Based Practice]]
 > # [[B2 - Psychométrie]]
 
+
+> [!info]+ BAC 3 - Q1
+> # [[B3 - Diversité]]
+> # [[B3 - Psychologie du travail II]]
+> # [[B3 - Neuropsychologie]]
+> # [[B3 - Approche de la démarche clinique en psychologie]]
+> # [[B3 - Adolescent]]
+> # [[B3 - Psychologie du bien-être au travail]]
+> # [[B3 - Boxho]]
+> 
+> # [[B3 - Définition du projet Bloc 3]]
+
+
 [[Séance info masters]]
 [[Green office de l'unif]]**
 

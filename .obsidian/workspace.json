@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "a93fa1b7bf22c7d5",
+            "id": "5263084f83f4dc97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture.md",
+                "file": "B3 - Boxho.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Culture"
+              "title": "B3 - Boxho"
+            }
+          },
+          {
+            "id": "fb53d5502e3d414b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B3 - Diversité.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "B3 - Diversité"
             }
           }
         ],
@@ -78,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nier différences",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +130,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -125,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Culture.md",
+                "file": "B3 - Boxho.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8958fedcaa620e5c",
@@ -236,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Culture.md",
+                "file": "B3 - Boxho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +297,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,53 +317,54 @@
       "lexicon-dictionary:Lexicon dictionary": false
     }
   },
-  "active": "22fddcb8fdffb5b3",
+  "active": "5263084f83f4dc97",
   "lastOpenFiles": [
     "Home.md",
+    "B3 - Diversité.md",
+    "DIV - Pourquoi la diversité, lien social et stigmate.md",
+    "B3 - Boxho.md",
+    "ENVI - Psychologie évolutionnaire.md",
+    "B3 - Définition du projet Bloc 3.md",
+    "BIEN - Législation.md",
+    "METRIE - Chapitre 6. Modèles de réponse à l'item (MRI).md",
+    "Pasted image 20260924100854.png",
+    "B3 - Psychologie du bien-être au travail.md",
+    "BIEN - Conséquences des RPS.md",
+    "Cours 1_PBET_Planning 2026-27.pdf",
+    "Cours 2_PBET_Législation 2026 V2.pdf",
+    "Cours 1_PBET_Introduction 2026.pdf",
+    "DEM - Raisonnement clinique sous incertitude et biais clinique.md",
+    "B3 - Approche de la démarche clinique en psychologie.md",
+    "PSYC1008_3_RC-Biais-EBP_26-27.pdf",
+    "Séance info masters.md",
+    "NEURO - Chapitre 3 La neuropsychologie cognitive.md",
+    "Slides 21_09_26 - Npsy cognitive.pdf",
+    "B3 - Neuropsychologie.md",
+    "NEURO - Chapitre 2 Pathologies neurologiques.md",
+    "B2 - Psychologie des apprentissages scolaires.md",
+    "Pasted image 20260922095156.png",
+    "Pasted image 20260922094313.png",
+    "Pasted image 20260922092805.png",
+    "Pasted image 20260922091829.png",
+    "Pasted image 20260922085948.png",
+    "Slides 21-09-26 - Pathologies neurologiques.pdf",
+    "NEURO - Introduction.md",
+    "1 - Introduction à la Npsy.pdf",
+    "TRAVAIL II - Sentiments à propos du travail - Émotions.md",
+    "B3 - Psychologie du travail II.md",
+    "TRAVAIL II - Sentiments à propos du travail - Attitudes.md",
+    "Culture.md",
+    "PD_26-27_chap1-stigma_all_students.pdf",
+    "Pasted image 20260921092807.png",
     "ENVI - La rhétorique de l'information.md",
     "Pasted image 20260614155109.png",
     "ENVI - théories des attitudes et comportements - TANIA.md",
     "B2 - Psychologie Environnementale.md",
     "STAT2 - Chapitre 3 - Comparaisons multiples entre des moyennes de traitement.md",
-    "B2 - Psychostatistiques.md",
-    "PATHO - Troubles neurodéveloppementaux.md",
     "Cours_TND_Bac2.pdf",
-    "B2 - Psychopathologie générale.md",
-    "METRIE - Exercices recap.md",
-    "B2 - Psychométrie.md",
-    "STAT2 - Effets dans les graphiques.md",
     "signal-2026-05-11-094218.jpeg",
     "signal-2026-05-11-085628_002.jpeg",
-    "signal-2026-05-11-085140.jpeg",
-    "signal-2026-05-11-083025.jpeg",
-    "STAT2 - Chapitre 2 - L'analyse de variance à un critère de classification.md",
-    "STAT2 - Chapitre 4 - L'anova factorielle.md",
-    "STAT2 - Arbre décisionnel.md",
-    "METRIE - Chapitre 5. Théorie classique du score vrai.md",
-    "Conseils Examen.md",
-    "Psycho/Psychostatistiques/Psychostatistiques.md",
     "24-25_LinaB_Psychom__trie_Synth__se.pdf.pdf",
-    "METRIE - Chapitre 7. La validité.md",
-    "STAT2 - Chapitre 9 - L'interprétation des résultats statistiques.md",
-    "Module 7 - Devis expérimentaux.md",
-    "Efficacité du redoublement.md",
-    "METRIE - Synthèse perso.md",
-    "Vocabulary/lexicon.md",
-    "Vocabulary",
-    "Autoécole.md",
-    "Mécanique.md",
-    "syllabus C. Monseur_2021_2022 (1).pdf",
-    "output.html",
-    "Pasted image 20260408114234.png",
-    "Pasted image 20260408111433.png",
-    "Cours 13. Prise de décision_web - Tagged.pdf",
-    "Pasted image 20260401114419.png",
-    "metrie - Chapitre 6.pdf",
-    "Pasted image 20260401110635.png",
-    "metrie - Chapitre 5.pdf",
-    "Pasted image 20260328134536.png",
-    "Anova mixtes.pdf",
-    "Anova mesure répétées.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",
