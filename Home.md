@@ -41,7 +41,9 @@
 > # [[B3 - Approche de la démarche clinique en psychologie]]
 > # [[B3 - Adolescent]]
 > # [[B3 - Psychologie du bien-être au travail]]
+> # [[B3 - Psychiatrie et psychopharmatologie clinique]]
 > # [[B3 - Boxho]]
+> # [[B3 - English]]
 > 
 > # [[B3 - Définition du projet Bloc 3]]
 

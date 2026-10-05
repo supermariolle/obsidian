@@ -51,8 +51,43 @@ On devra remettre TOUS les documents liés au projet (formulaires, fiches partic
 Il existe une liste de choses pour lesquelles l'utilisation de l'IA est acceptée; un usage différent serait considéré comme faute grave si détectée. 
 Correction de norme APA, orthographe, structure etc Ok.
 
+#tuyau connaitre les différentes caractéristiques de la dépression mélancolique.
 
+La sérotonine joue un rôle dans différentes parties du corps. Elle joue un rôle dans le système vasculaire, gastro-intestinal etc. La baisse de sérotonine est donc une maladie du corps quasi-complet. 
 
+Les médicaments vont bloquer les portes de recapture (retour dans le neurone émetteur) pour aller bloquer la sérotonine dans la fente synaptique et y augmenter la concentration.
+Le récepteur 5HT est en face, de l'autre côté de la fente et va capturer l'excès de sérotonine. 
+On appelle ces antidépresseurs des inhibiteurs **sélectifs** mais on se rend compte qu'ils bloquent aussi d'autres choses. Ils sont donc pas aussi sélectifs que ce qu'on pensait.
+- le mieux toléré
+- le moins toxique
+- le plus simple à prescrire
+- à dose efficace
 
+**==Début des effets:==** 
+Anxiété: 10 jours
+Idées suicidaire et ralentissement: 2 semaines
+Tristesse et anhédonie: 4 semaines
+Cognition: 6 semaines
+
+On maintient le traitement au moins 6 mois après la rémission.
+On diminue progressivement les posologies pour éviter des syndremes d'arrêt des antidépresseurs. 
+Au delà de 2 EDC (épisode dépressif caractérisé), on maintient le traitement au moins 2 ans. 
+
+Dépression légère: psychothérapie
+Dépression modérée ou sévère:
+- non mélancholique: SSRI (oou SNRI)
+- mélancholique: tricyclique (ou SNRI)
+- psychotique: Tricyclique + antipsychotique ou ECT
+- dépression saisonnière
+
+**Effets secondaires**
+*Tricycliques*: toxicité cardiaque, bouche sèche, constipation, hypotension, gain de poids. 
+*SSRI*: En début de traitement = nausées somnolence, vertiges, perte de libido. 
+*Inhibiteur de la recapture de la sérotonine et noradrénaline* (IRSN): grippe intestinale, hypertension à forte dose, difficile à diminuer.
+
+Syndrome d'arret des antidépresseurs
+Les antidépresseurs ne donnent pas de dépendance; ce sont les benzodiazépines (Xanax etc).
+
+Syndrome 
 
 

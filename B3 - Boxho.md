@@ -6,3 +6,7 @@
 - Base de données "Criminalistique": sur base de volontaire, les investigateurs (police etc) peuvent donner leur ADN.
 
 Coupure de la carotide: pousser les doigts dedans pour bloquer le sang. Bloquer depuis l'extérieur avec la main est inutile. 
+
+ADN nucléaire (1/2 papa, 1/2 maman). 
+L'ADN des mitochondries a son propre ADN. Il vient toujours de maman, jamais de papa. 
+

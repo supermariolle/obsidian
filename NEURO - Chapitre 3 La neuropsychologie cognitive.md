@@ -22,3 +22,34 @@ Patient PH
 Double dissociation: **mémoire épisodique** et **système de représentation perceptive**
 
 
+Postulat 1: 
+
+Postulat 2: Postulat de transparence
+On peut avoir un déficit isolé. Sur base d'une analyse des comportements, on peut supposer l'origine de la lésion.
+"La performance est le reflet d'une architecture amputée d'un module." Mais les gens ont des stratégies adaptatives pour contourner les difficultés.
+
+Postulat 3: Postulat de fractionnement
+On peut avoir un seul module atteint alors que l'autre est préservé
+
+Postulat 4: Postulat d'universalité
+Les mécanismes fondamentaux de la cognition font partie d'un patrimoine cognitif partagé par tous les membres de l'espèce.
+
+Voie directe: adressage
+Voie indirecte: conversion
+
+
+
+Compréhension des mots: 
+Reconnaissance des objets: 
+Lecture à voix haute de pêche, nochure: 
+Lecture à voix haute de monsieur, gars: Lexique phonologique de sortie
+
+Double dissociation entre mémoire à long terme et mémoire à court terme; ils dépendent de différents systèmes et peuvent donc être déficitaires sans influencer l'autre. 
+
+Anosognosie: réalisation de ses propres difficultés, de ses limitations. 
+
+Anamnèse:
+Quels éléments sont spécifiquement disruptifs?
+Quelles conséquences
+Dans quelles situations?
+

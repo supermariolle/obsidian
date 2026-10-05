@@ -34,6 +34,222 @@
             }
           },
           {
+            "id": "de3eebd6fdd3abe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B3 - Psychologie du bien-être au travail.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "B3 - Psychologie du bien-être au travail"
+            }
+          },
+          {
+            "id": "e2837b435ca8a9e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EN - Occupational psychology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "EN - Occupational psychology"
+            }
+          },
+          {
+            "id": "b55ea3a44edb05c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B3 - Définition du projet Bloc 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "B3 - Définition du projet Bloc 3"
+            }
+          },
+          {
+            "id": "af3f50c26b75744d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B3 - Psychiatrie et psychopharmatologie clinique.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "B3 - Psychiatrie et psychopharmatologie clinique"
+            }
+          },
+          {
+            "id": "1518ac2354af001e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B3 - Psychologie du travail II.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "B3 - Psychologie du travail II"
+            }
+          },
+          {
+            "id": "952679f1940ab49b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TRAVAIL II - Sentiments à propos du travail - Attitudes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TRAVAIL II - Sentiments à propos du travail - Attitudes"
+            }
+          },
+          {
+            "id": "3f174ca661f9dff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TRAVAIL II - Sentiments à propos du travail - Émotions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TRAVAIL II - Sentiments à propos du travail - Émotions"
+            }
+          },
+          {
+            "id": "afe04f5bb21edd1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TRAVAIL II - Sentiments à propos du travail - Attitudes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TRAVAIL II - Sentiments à propos du travail - Attitudes"
+            }
+          },
+          {
+            "id": "6a0bb584f523d2b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B3 - Adolescent.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "B3 - Adolescent"
+            }
+          },
+          {
             "id": "5263084f83f4dc97",
             "type": "leaf",
             "state": {
@@ -80,9 +296,153 @@
               "icon": "lucide-file",
               "title": "B3 - Diversité"
             }
+          },
+          {
+            "id": "6cf33587154fc69f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B3 - Neuropsychologie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "B3 - Neuropsychologie"
+            }
+          },
+          {
+            "id": "d690cbe85a8f131c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NEURO - Notes synthèse annotées.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NEURO - Notes synthèse annotées"
+            }
+          },
+          {
+            "id": "7c39147252417e42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NEURO - Chapitre 3 La neuropsychologie cognitive.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NEURO - Chapitre 3 La neuropsychologie cognitive"
+            }
+          },
+          {
+            "id": "d7d36f752f9515c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B3 - Approche de la démarche clinique en psychologie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "B3 - Approche de la démarche clinique en psychologie"
+            }
+          },
+          {
+            "id": "466a98dec956077e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEM - Communiquer pour soutenir l'alliance et coconstruire l'entretien.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DEM - Communiquer pour soutenir l'alliance et coconstruire l'entretien"
+            }
+          },
+          {
+            "id": "c0e7fe1d0ddd3e64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EBP - Pubmed.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "EBP - Pubmed"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +462,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nier différences",
+                "query": "medl",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +498,8 @@
               "title": "Explorateur de fichiers"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3dcfc89bd62fef84",
@@ -151,7 +512,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "B3 - Boxho.md",
+                "file": "EN - Occupational psychology.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,8 +547,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8958fedcaa620e5c",
@@ -219,10 +579,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Mots-clés"
             }
           },
           {
@@ -250,7 +612,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "b823bd895026eaab",
@@ -263,7 +625,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B3 - Boxho.md",
+                "file": "EN - Occupational psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +659,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 288
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,54 +679,54 @@
       "lexicon-dictionary:Lexicon dictionary": false
     }
   },
-  "active": "5263084f83f4dc97",
+  "active": "4ad5a6944b7d15d8",
   "lastOpenFiles": [
+    "BIEN - La motivation au travail.md",
+    "B3 - Psychologie du bien-être au travail.md",
     "Home.md",
+    "EN - Occupational psychology.md",
+    "B3 - English.md",
+    "B3 - Définition du projet Bloc 3.md",
+    "B3 - Psychiatrie et psychopharmatologie clinique.md",
+    "Prof G. Scantamburlo_Troubles dépressifs(1).pdf",
+    "EBP - Pubmed.md",
+    "DEM - Communiquer pour soutenir l'alliance et coconstruire l'entretien.md",
+    "B3 - Approche de la démarche clinique en psychologie.md",
+    "PSYC1008_4_Communication_26-27.pdf",
+    "NEURO - Notes synthèse annotées.md",
+    "B3 - Neuropsychologie.md",
+    "NEURO - Chapitre 3 La neuropsychologie cognitive.md",
+    "TRAVAIL II - Sentiments à propos du travail - Attitudes.md",
+    "B3 - Psychologie du travail II.md",
+    "TRAVAIL II - Sentiments à propos du travail - Émotions.md",
+    "B3 - Adolescent.md",
+    "B3 - Boxho.md",
     "B3 - Diversité.md",
     "DIV - Pourquoi la diversité, lien social et stigmate.md",
-    "B3 - Boxho.md",
     "ENVI - Psychologie évolutionnaire.md",
-    "B3 - Définition du projet Bloc 3.md",
     "BIEN - Législation.md",
     "METRIE - Chapitre 6. Modèles de réponse à l'item (MRI).md",
     "Pasted image 20260924100854.png",
-    "B3 - Psychologie du bien-être au travail.md",
     "BIEN - Conséquences des RPS.md",
     "Cours 1_PBET_Planning 2026-27.pdf",
     "Cours 2_PBET_Législation 2026 V2.pdf",
     "Cours 1_PBET_Introduction 2026.pdf",
     "DEM - Raisonnement clinique sous incertitude et biais clinique.md",
-    "B3 - Approche de la démarche clinique en psychologie.md",
     "PSYC1008_3_RC-Biais-EBP_26-27.pdf",
     "Séance info masters.md",
-    "NEURO - Chapitre 3 La neuropsychologie cognitive.md",
     "Slides 21_09_26 - Npsy cognitive.pdf",
-    "B3 - Neuropsychologie.md",
-    "NEURO - Chapitre 2 Pathologies neurologiques.md",
-    "B2 - Psychologie des apprentissages scolaires.md",
     "Pasted image 20260922095156.png",
     "Pasted image 20260922094313.png",
     "Pasted image 20260922092805.png",
     "Pasted image 20260922091829.png",
     "Pasted image 20260922085948.png",
     "Slides 21-09-26 - Pathologies neurologiques.pdf",
-    "NEURO - Introduction.md",
     "1 - Introduction à la Npsy.pdf",
-    "TRAVAIL II - Sentiments à propos du travail - Émotions.md",
-    "B3 - Psychologie du travail II.md",
-    "TRAVAIL II - Sentiments à propos du travail - Attitudes.md",
-    "Culture.md",
     "PD_26-27_chap1-stigma_all_students.pdf",
     "Pasted image 20260921092807.png",
-    "ENVI - La rhétorique de l'information.md",
     "Pasted image 20260614155109.png",
-    "ENVI - théories des attitudes et comportements - TANIA.md",
-    "B2 - Psychologie Environnementale.md",
-    "STAT2 - Chapitre 3 - Comparaisons multiples entre des moyennes de traitement.md",
-    "Cours_TND_Bac2.pdf",
     "signal-2026-05-11-094218.jpeg",
     "signal-2026-05-11-085628_002.jpeg",
-    "24-25_LinaB_Psychom__trie_Synth__se.pdf.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Psycho/Psychostatistiques/Untitled.canvas",
