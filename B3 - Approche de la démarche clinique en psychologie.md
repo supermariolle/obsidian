@@ -1,2 +1,5 @@
+[[DEM - Travaux pratiques]]
 [[DEM - Raisonnement clinique sous incertitude et biais clinique]]
 [[DEM - Communiquer pour soutenir l'alliance et coconstruire l'entretien]]
+[[DEM - La conceptualisation de cas]]
+[[DEM - Premier entretien avec l'Evidence-based practice]]

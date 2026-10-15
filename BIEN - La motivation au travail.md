@@ -23,5 +23,18 @@ Selon lui il existe 3 besoins qui orientent les choix professionnels des travail
 *Besoin de pouvoir ou de dominance:* Recherche de compétition et d'influence sur les autres. Rôles de supervision et de gestion d'autres personnes. 
 
 
+**==Typologie de Holland (1997)==**
+Personnalité réaliste: activités mécaniques et utilisation des outils et machines
+Personnalités investigatrices: idées et théories abstraites
+Personnalité artistique: création
+Personnalité sociale: aider et enseigner
+Personnalité d'entrepreneur: gestion, vente, négociation
+Personnalité conventionnelle: organiser et évaluer les données
+
+==**La théorie des 2 facteurs (Herzberg)**==
+Demande aux travailleurs de décrire des situations qui ont mené à de la satisfaction et d'autres qui ont mené à de l'insatisfaction. 
+Il s'est rendu compte que l'insatisfaction n'était pas l'opposé de la satisfaction.
+En termes d'insatisfaction, on trouve des facteurs de l'ordre de la politique, de surveillance, contrôle, salaire, relation avec les superviseurs. 
+Pour augmenter la satisfaction, il faut aller vers les facteurs qui la favorisent (sens au travail et autres facteurs motivants), pas seulement combler les sources d'insatisfaction.
 
 # Comment une motivation élevée peut conduire à un comportement efficace? (12/10/26)

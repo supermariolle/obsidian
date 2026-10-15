@@ -1,3 +1,5 @@
+![[Projets du bloc 3 - Séance commune.pdf]]
+
 Activité intégrative de fin de bachelier. Mobilise les connaissances, compétences, méthodes du bachelier. 
 
 Mis en oeuvre dans une activité pratique appliquée. 

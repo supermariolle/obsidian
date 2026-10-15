@@ -44,6 +44,7 @@
 > # [[B3 - Psychiatrie et psychopharmatologie clinique]]
 > # [[B3 - Boxho]]
 > # [[B3 - English]]
+> # [[B3 - Psychostat SAS]]
 > 
 > # [[B3 - Définition du projet Bloc 3]]
 
