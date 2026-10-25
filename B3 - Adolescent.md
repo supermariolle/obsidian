@@ -1,3 +1,13 @@
+
+# Présentations
+
+[[ADO - Masculinisme]]
+[[ADO - Hypersexualisation]]
+
+
+
+# Notes scarification
+
 - Ce qu'il veut communiquer 
 - A qui il se dévoile
 - Le lieu des mutilations (ventre, jambes, bras)

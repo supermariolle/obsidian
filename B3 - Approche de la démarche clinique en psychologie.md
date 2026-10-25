@@ -3,3 +3,4 @@
 [[DEM - Communiquer pour soutenir l'alliance et coconstruire l'entretien]]
 [[DEM - La conceptualisation de cas]]
 [[DEM - Premier entretien avec l'Evidence-based practice]]
+[[DEM - Analyser un outil d'évaluation]]

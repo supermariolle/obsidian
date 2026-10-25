@@ -1,3 +1,7 @@
+[[PHARMA - lexique]]
+[[PHARMA - dépression]]
+[[PHARMA - troubles psychotiques]]
+[[PHARMA - troubles anxieux]]
 ![[Prof G. Scantamburlo_Troubles dépressifs(1).pdf]]
 
 # Troubles dépressifs
@@ -56,5 +60,7 @@ Pathologies associées à la dépression? Le plus souvent oui addiction à l'alc
 Trouble = pathologie
 Syndrome = 
 Symptomatologie (DMS-5) présent depuis plus de 2 semaines, tous les jours. Perte d'intérêt, plaisir, perte ou gain de poids, insomnie ou hypersomnie etc
+
+
 
 

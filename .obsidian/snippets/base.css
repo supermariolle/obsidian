@@ -25,9 +25,16 @@
   margin-top: 0rem;
   margin-bottom: 1rem;
   background-color: var(--background-primary);
-  padding: 2rem;
   box-shadow: 0 0 10px #2e2c2c;
   border-radius: 5px;
+}
+
+.cm-lineWrapping > *, .inline-title {
+  padding: 0 2rem !important;
+  text-indent: 0 !important;
+}
+.inline-title {
+  padding-top: 2rem !important;
 }
 
 .cm-scroller {
@@ -93,7 +100,14 @@
 
 /** Headers **/
 .cm-header {
-  color: #6c8195 !important;
+  /* color: #6c8195; */
+}
+.cm-content .HyperMD-header-1  {
+  background-color: #36db33;
+  vertical-align: middle;
+  padding: 20px 10px !important;
+  color: #1a1f24;
+  margin-bottom: 20px !important;
 }
 
 /** Hide-show **/

@@ -1,4 +1,5 @@
-# [[Perso]]
+##  [[Perso]]
+
 > [!info]+ BAC 1 - Q1
 > ## [[Eléments Biologie]] 🦠
 > ## [[Eléments de sociologie]] ![[Pasted image 20240919142245.png|60]]
@@ -45,6 +46,7 @@
 > # [[B3 - Boxho]]
 > # [[B3 - English]]
 > # [[B3 - Psychostat SAS]]
+> # [[B3 - Méthodes d'évaluation de la personnalité]]
 > 
 > # [[B3 - Définition du projet Bloc 3]]
 
