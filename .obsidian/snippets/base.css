@@ -12,6 +12,9 @@
     --background-opacity: rgba(var(--ctp-ext-base, 36, 39, 58 ), 0.4);
 }
 
+.tree-item-self {
+      color: var(--nav-item-color) !important;
+}
 
 .pdf-embed[alt*="page"] .pdf-viewer-container {
   overflow: hidden;

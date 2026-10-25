@@ -1,5 +1,5 @@
 
-![[Anova mesure répétées.pdf]]
+![[Anova mesure répétées.pdf]]**
 Définition: **==Anova à mesures répétées: extension test t pour échantillons pairés==**
 Anova: Analyse de la variance
 

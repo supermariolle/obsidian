@@ -32,298 +32,37 @@
               "icon": "lucide-file",
               "title": "Home"
             }
-          },
-          {
-            "id": "0910b7a9adfbe9f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B3 - Méthodes d'évaluation de la personnalité.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "B3 - Méthodes d'évaluation de la personnalité"
-            }
-          },
-          {
-            "id": "714e77aeae497752",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapitre 3 - Techniques d'évaluation de la personnalité.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chapitre 3 - Techniques d'évaluation de la personnalité"
-            }
-          },
-          {
-            "id": "0f4e74152feff88c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nouvel onglet"
-            }
-          },
-          {
-            "id": "b6c239647fb8d295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B3 - Approche de la démarche clinique en psychologie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "B3 - Approche de la démarche clinique en psychologie"
-            }
-          },
-          {
-            "id": "f97181d5b1e448d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEM - Analyser un outil d'évaluation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DEM - Analyser un outil d'évaluation"
-            }
-          },
-          {
-            "id": "1281da92af5f8985",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B3 - Adolescent.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "B3 - Adolescent"
-            }
-          },
-          {
-            "id": "5f66ac4797e27fa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B3 - Adolescent.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "B3 - Adolescent"
-            }
-          },
-          {
-            "id": "eb296c775ccf9a25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ADO - Hypersexualisation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ADO - Hypersexualisation"
-            }
-          },
-          {
-            "id": "32e780ce6da2f2e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anglais.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Anglais"
-            }
-          },
-          {
-            "id": "2bdbf667218580be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHARMA - troubles anxieux.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PHARMA - troubles anxieux"
-            }
-          },
-          {
-            "id": "4811444e573e31e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B3 - English.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "B3 - English"
-            }
-          },
-          {
-            "id": "b1bb3efab4d7eb5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EN - Occupational psychology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "EN - Occupational psychology"
-            }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4d3eecf16e756b6c",
+    "id": "df8e3d6cc922194e",
     "type": "split",
     "children": [
       {
-        "id": "0ffcc7c8597200f6",
+        "id": "48c97cad01222363",
         "type": "tabs",
-        "dimension": 77.87610619469027,
         "children": [
           {
-            "id": "22fddcb8fdffb5b3",
+            "id": "af1e7a68b54c1dbd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "c8eaf0a85f545e8f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -340,113 +79,74 @@
             }
           },
           {
-            "id": "b3ee2e8d90498bd2",
+            "id": "1d787ab18df1f91a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "4ad5a6944b7d15d8",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "3dcfc89bd62fef84",
-        "type": "tabs",
-        "dimension": 22.123893805309734,
-        "children": [
-          {
-            "id": "29eb955fe8603875",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "EN - Occupational psychology.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.4495880896345337,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphe local"
+              "icon": "lucide-bookmark",
+              "title": "Signets"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "8958fedcaa620e5c",
+    "id": "8818e9a2cd20332f",
     "type": "split",
     "children": [
       {
-        "id": "cb10153b7d2ab192",
+        "id": "741903a9c0518c07",
         "type": "tabs",
-        "dimension": 47.74566473988439,
         "children": [
           {
-            "id": "4b5904ac5530bea0",
+            "id": "cce072fcfbb0a3df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "7207ebdb37341807",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Développement affectif.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Développement affectif"
+              "title": "Liens sortants"
             }
           },
           {
-            "id": "8a0efc684181f7df",
+            "id": "dd953f0000977292",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": true,
+                "useHierarchy": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -454,21 +154,32 @@
             }
           },
           {
-            "id": "42215e367a0f9ca5",
+            "id": "07f76bc88b61cc4b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Plan"
             }
           },
           {
-            "id": "291ca3e021573c5f",
+            "id": "1924fd5decd54063",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "60df5e1aadc6e380",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -478,124 +189,34 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "b823bd895026eaab",
-        "type": "tabs",
-        "dimension": 23.121387283236995,
-        "children": [
-          {
-            "id": "638e408a0fc9a855",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "EN - Occupational psychology.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Rétroliens"
-            }
-          }
-        ]
-      },
-      {
-        "id": "dcb560491107237e",
-        "type": "tabs",
-        "dimension": 29.13294797687861,
-        "children": [
-          {
-            "id": "73a7e30836c00c59",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 288
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Créer un nouveau canvas": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer un nouveau canvas": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Créer une nouvelle base": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "homepage:Open homepage": false,
       "ob2static-site:Current file - Static Site MD Export": false,
       "ob2static-site:All files - Static Site MD Export": false,
       "webpage-html-export:Export as HTML": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "lexicon-dictionary:Lexicon dictionary": false
     }
   },
-  "active": "4ad5a6944b7d15d8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "B3 - English.md",
-    "Home.md",
-    "Anglais.md",
-    "PHARMA - troubles psychotiques.md",
-    "B2 - Psychopathologie générale.md",
-    "Assets/Pasted image 20261023100322.png",
-    "B3 - Psychiatrie et psychopharmatologie clinique.md",
-    "PHARMA - troubles anxieux.md",
-    "Assets/Prof G. Scantamburlo_Troubles anxieux (partie 1).pdf",
-    "ADO - Hypersexualisation.md",
-    "B3 - Adolescent.md",
-    "ADO - Masculinisme.md",
-    "DEM - Analyser un outil d'évaluation.md",
-    "Assets/Pasted image 20261021095430.png",
-    "Assets/PSYC1008_9_Analyser un outil d’évaluation_26-27.pdf",
-    "B3 - Approche de la démarche clinique en psychologie.md",
-    "B3 - Méthodes d'évaluation de la personnalité.md",
-    "Chapitre 3 - Techniques d'évaluation de la personnalité.md",
-    "Assets/MSEPDI 26-27.pdf",
-    "NEURO - Chapitre 6 La neuropsychologie de l'attention.md",
-    "B3 - Neuropsychologie.md",
-    "NEURO - Chapitre 5 Mémoire et apprentissage.md",
-    "Assets/5 - Npsy de la memoire II.pdf",
-    "BIEN - la justice au travail.md",
-    "B3 - Psychologie du bien-être au travail.md",
-    "EN - Occupational psychology.md",
-    "PHARMA - lexique.md",
-    "Assets/Pasted image 20261016095149.png",
-    "Assets/Pasted image 20261016095403.png",
-    "Assets/Pasted image 20261016090605.png",
-    "Assets/Prof G. Scantamburlo - Troubles psychotiques(1).pdf",
-    "Questions de philosophie.md",
-    "DEM - Premier entretien avec l'Evidence-based practice.md",
-    "EBP - Poser une question.md",
-    "B3 - Psychologie du travail II.md",
-    "TRAVAIL II - Sentiments à propos du travail - Attitudes.md",
-    "Assets/Pasted image 20261014084833.png",
-    "Assets/Pasted image 20261008122932.png",
-    "Assets/PSYC1008_6_Mener une recherche documentaire(I)_26-27.pdf",
-    "Assets/Cours 4_PBET_Modèles partim1_07102026 2.pdf",
-    "Assets/Projets du bloc 3 - Séance commune.pdf",
-    "Assets/Cours 4_PBET_Modèles partim1_07102026 1.pdf",
-    "Assets/Cours 4_PBET_Modèles partim1_07102026.pdf",
-    "Pasted image 20260924100854.png",
-    "Pasted image 20260922095156.png",
-    "Pasted image 20260922094313.png",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Psycho/Psychostatistiques/Untitled.canvas",
-    "Untitled.canvas"
+    "Chapitre 1 1.pdf",
+    "Assets/_24-25__PaulaA_Stat3_Synth__se.pdf.pdf",
+    "Home.md"
   ]
 }
