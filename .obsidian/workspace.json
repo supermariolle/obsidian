@@ -80,9 +80,24 @@
               "icon": "lucide-file",
               "title": "DEM - Stigmatisation"
             }
+          },
+          {
+            "id": "6a35e087147aaf9a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "B2 - Evidence Based Practice.md",
+                "bFile": "B2 - Evidence Based Practice.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: B2 - Evidence Based Practice  (Index)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +167,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DEM - Stigmatisation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,7 +279,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEM - Stigmatisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +312,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 398.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,12 +332,17 @@
       "lexicon-dictionary:Lexicon dictionary": false
     }
   },
-  "active": "c99febcee0736653",
+  "active": "6a35e087147aaf9a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "DEM - Stigmatisation.md",
+    "Assets/_24-25__PaulaA_Stat3_Synth__se.pdf.pdf",
+    "Assets/Exercices Leçon 3.pdf",
+    "Assets/Exercices Leçon 2.pdf",
+    "Assets/Exercices Leçon 2 1.pdf",
     "ART - Alcolo-dépendance.md",
     "Assets/Yang et al., 2022.pdf",
     "Home.md",
-    "DEM - Stigmatisation.md",
     "ART - Violences conjugales.md",
     "Assets/Choudhury et al., 2025.pdf",
     "Articles scientifiques",
@@ -340,13 +358,9 @@
     "B3 - Psychiatrie et psychopharmacologie clinique.md",
     "PHARMA - troubles anxieux.md",
     "B2 - Psychopathologie générale.md",
-    "Assets/Prof G. Scantamburlo - PTSD & Trouble de l'adaptation.pdf",
-    "Assets/PSYC1008_11_La prise de décision partagée (Partie 2)_26-27 1.pdf",
     "DEM - Soutenir la prise de décision partagée.md",
-    "Assets/PSYC1008_11_La prise de décision partagée (Partie 2)_26-27.pdf",
     "DEM - Travaux pratiques.md",
     "BIEN - Travail & famille.md",
-    "Assets/Cours 7_PBET_Work-family 2026 vét.pdf",
     "B3 - Psychologie du bien-être au travail.md",
     "ADO - Adoption.md",
     "B3 - Adolescent.md",

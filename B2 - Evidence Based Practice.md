@@ -15,7 +15,7 @@ id: auteur
 Ex: **(child*, adoles*, teen*)ti,ab,id**
 
 
-![[Pasted image 20260313142033.png|300]]
+![[Pasted image 20260313142033.png]]
 ## Medline
 Fonctionne avec des mesh.
 Thésaurus: voir lien sur la page d'accueil de pubmed.

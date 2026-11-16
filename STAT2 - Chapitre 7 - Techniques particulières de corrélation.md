@@ -1,7 +1,7 @@
-
+![[Chapitre 7 1.pdf]]
 Mesures de corrélation: les valeurs peuvent être ordonnées. "Est-ce que si je connais les résultats de l'un, je peux dire quelque chose des résultats de l'autre?"
 
-Mesure d'association: les valeurs ne peuvent pas êtres ordonnées. "Est-ce que les hommes réussissent mieux que les femmes?"
+Mesure d'association: les valeurs ne peuvent pas être ordonnées. "Est-ce que les hommes réussissent mieux que les femmes?"
 
 
 Corrélation - RAPPEL
@@ -52,10 +52,10 @@ N=18
 X^2 et Y^2 pour calculer l'écart-type. Mais on n'a pas besoin de les calculer car pour 0 et 1, les mettre au carré garde la même valeur. 
 Pour XY, c'est toujours 0 sauf si X et Y valent 1 (raccourcis).
 
-S_x(écart type pour X)
-S_y (écart type pour Y)
-r_{pb} = cov_xy / SxSy = 0,555/(0,511x0,514) = 0.209 (coefficient de corrélation)
-r_{pb}^2 = 0,209^2 =0,04 => "4% de la variabilité touchant la réussite peut s'expliquer par le genre." 
+$S_x$(écart type pour X)
+$S_y$ (écart type pour Y)
+$r_{pb} = cov_xy / SxSy$ = 0,555/(0,511x0,514) = 0.209 (coefficient de corrélation)
+$r_{pb}^2 = 0,209^2 =0,04$ => "4% de la variabilité touchant la réussite peut s'expliquer par le genre." 
 
 
 $\chi^2 = N * \phi^2$

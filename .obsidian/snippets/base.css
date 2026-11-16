@@ -28,6 +28,9 @@ body {
   color: var(--primary-text);
 }
 
+.tree-item-self {
+      color: var(--nav-item-color) !important;
+}
 
 .pdf-embed[alt*="page"] .pdf-viewer-container {
   overflow: hidden;

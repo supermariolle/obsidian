@@ -10,7 +10,7 @@ Pour un individu donné, je pourrai calculer la probabilité de réussite d'un i
 
 
 Compétence d'un sauteur?
- - recondrd individuel?
+ - record individuel?
  - score à un tournoi?
 on ne sait pas comment la mesurer ainsi, il faut donc un test standardisé. Plus on augmente la difficulté, plus on commence à voir des échecs; il faut donc trouver une portée de questions qui mettent les gens en difficulté. On a des questions qui sont systématiquement réussies puis des questions qui sont systématiquement ratées puis tout ce qui se trouve au milieu.
 
