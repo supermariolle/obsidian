@@ -25,13 +25,14 @@ Liste des techniques de communication vues en cours:
 
 # Vidéo "un premier entretien"
 6 techniques utilisées: 
-- *paraphrase*: "donc pour vous, si je reformule ce que vous venez de me dire, ce n'est pas le trouble bipolaire qui détermine que vous soyez impulsif. [...]"
+- *paraphrase*: "donc pour vous, si je reformule ce que vous venez de me dire, ce n'est pas le trouble bipolaire qui détermine que vous soyez impulsif. [...]" 
+  *Reformulation empathique*, on rejoint le patient: "l'anxiété est tellement forte pour vous que vous avez du mal à vous mettre en action, donc je comprends que ça devienne écrasant." (ne faire que quand on rejoint la personne)
 - *résumer*: "donc la porte d'entrée c'est vraiment l'impulsivité", "votre impulsivité vous freine dans des projets qui sont en accord avec vos valeurs"
 - *concrétisation*: "votre impulsivité, comment ça se passe?"
 - *encouragements minimaux:* "[...]. D'accord...", "J'ai peur de moi. Peur de vous?"
 - *écoute active sélective*: "[...] la peur de vous, la peur de vos réactions. Qu'est-ce qu'il en est de votre confiance en vous?"
 - *écoute active non-sélective*: "Dans votre vie actuelle, est-ce qu'il y a d'autres choses qui compliquent votre participation à ces réunions?"
-
+- *reflet:* Nommer ce qu'on observe. "Je vois que vous êtes tendu. Là je sens que la situation vous met en colère."
 Les domaines explorés: 
 - le trouble bipolaire de Mr. 
 	- 4 phases: dépressive, normale, hypomane (inclut le plus de phases d'impulsivité), maniaque.

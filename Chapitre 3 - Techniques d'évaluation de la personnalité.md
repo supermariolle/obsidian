@@ -89,6 +89,7 @@ En revanche, on peut combiner des dimensions sur la même arrête: borderline / 
 
 
 
+
 ## TCI-préscolaire: 2 à 6 ans
 
 ## TCI junior: 16 à 18 ans.
@@ -97,3 +98,29 @@ En revanche, on peut combiner des dimensions sur la même arrête: borderline / 
 Deux scores sur 2 tempéraments différents n'ont pas d'effet l'un sur l'autre si ces scores sont dans la moyenne. Cependant, si les scores vont vers des valeurs anormales (hors norme), un score va influencer un autre. 
 Exemple: les personnes qui son élevées en évitement du danger ET élevées en recherche de nouveauté, on obtient des gens "explosifs" dont les contradictions sont assez puissantes. Émotions positives et négatives.
 À l'inverse, la recherche de nouveauté est renforcée par une personne qui est bas en évitement du danger. Situation sans aucun frein anxieux.
+
+
+# NEOPI
+
+6 facettes par dimension, 
+- Extraversion: chaleur, grégarisme, ... (facettes qui ne corrèlent normalement pas)
+- agréabilité: 
+- conscienciosité
+- neuroticisme
+- ouverture vers l'intérieur
+
+***Interprétation***
+Pour interpréter les résultats, il faut être au fait de ce que l'étude mesure précisément plutôt que d'essayer de supposer ce que l'auteur a voulu dire. 
+"Légère tendance, tendance, forte tendance" etc. On ne dit pas qu'il "est" confiant ou autre. Il a une tendance à...  
+
+Être faible en extraversion, c'est une absence d'extraversion, pas l'opposé (introversion). 
+Extraversion: une personne rapportera davantage les événements positifs. Faible extraversion, ne rapporte pas nécessairement davantage d'événements négatifs. 
+
+L'introverti n'est pas qq'un qui doit s'affirmer davantage, anxieux car mal compris etc. Un introverti est bien là où il est, tranquille seul, ne demande pas le spotlight et une soudaine reconnaissance. Il n'y a pas de réactivité vers le positif mais pas négatif non plus. 
+
+Extraversion: pensées positives. 
+Neuroticisme: pensées négatives. Une faible note sur le neuroticisme ne démontre pas une tendance vers les pensées positives, juste moins de positives. 
+
+
+
+

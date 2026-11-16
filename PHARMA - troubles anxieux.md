@@ -108,7 +108,7 @@ paliptatio, transpiratio, tremblement, déréalisation, paresthésies (picotemen
 
 # Philosophie de soin - approche médicale globale
 
-Troubles anxieux: Antidépresseurs 
+Troubles anxieux: **Antidépresseurs** 
 Troubles phobiques: TCC (+antidépresseur si c'est sévère)
 Crises: Benzodiazépine
 

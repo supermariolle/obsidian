@@ -2,6 +2,7 @@
 [[PHARMA - dépression]]
 [[PHARMA - troubles psychotiques]]
 [[PHARMA - troubles anxieux]]
+[[PHARMA - Troubles liés au stress post-traumatique]]
 ![[Prof G. Scantamburlo_Troubles dépressifs(1).pdf]]
 
 # Troubles dépressifs

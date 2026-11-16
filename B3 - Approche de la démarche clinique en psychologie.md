@@ -4,3 +4,6 @@
 [[DEM - La conceptualisation de cas]]
 [[DEM - Premier entretien avec l'Evidence-based practice]]
 [[DEM - Analyser un outil d'évaluation]]
+[[DEM - Soutenir la compréhension partagée]]
+[[DEM - Soutenir la prise de décision partagée]]
+[[DEM - Stigmatisation]]

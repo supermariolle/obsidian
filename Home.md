@@ -42,7 +42,7 @@
 > # [[B3 - Approche de la démarche clinique en psychologie]]
 > # [[B3 - Adolescent]]
 > # [[B3 - Psychologie du bien-être au travail]]
-> # [[B3 - Psychiatrie et psychopharmatologie clinique]]
+> # [[B3 - Psychiatrie et psychopharmacologie clinique]]
 > # [[B3 - Boxho]]
 > # [[B3 - English]]
 > # [[B3 - Psychostat SAS]]
@@ -68,3 +68,7 @@
 
 
 
+# Articles scientifiques
+
+[[ART - Violences conjugales]]
+[[ART - Alcolo-dépendance]]

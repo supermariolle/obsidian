@@ -1,6 +1,6 @@
 :root body {
-  /* --bold-color: #6c8195; */
-  /* --italic-color: #8eABB7; */
+  --bold-color: #ff5252;
+  --italic-color: var(--primary-color);
   --bold-modifier: 300;
 
     --h1-size: 1.7em;
@@ -9,7 +9,23 @@
     --h4-size: 1.3em;
     --h5-size: 1.15em;
     --h6-size: 1em;
-    --background-opacity: rgba(var(--ctp-ext-base, 36, 39, 58 ), 0.4);
+
+    --content-inner-padding-x: 1.5rem;
+    --content-inner-padding-y: 1.5rem;
+
+    --background-opacity: rgba(var(--ctp-ext-base, 36, 39, 58 ), 0);
+
+    /* https://www.materialpalette.com/amber/teal */
+    --dark-primary-color: #FFA000;
+    --light-primary-color: #FFECB3;
+    --accent-color: #009688;
+    --primary-color: #ffc107;
+    --text-icons-color: #212121;
+    --primary-text: #dcdada;
+}
+
+body {
+  color: var(--primary-text);
 }
 
 
@@ -20,27 +36,32 @@
 
 /* page editor layout */
 .cm-sizer {
-  margin-left: 1.5rem;
-  margin-right: 1.5rem;
-  margin-top: 0rem;
-  margin-bottom: 1rem;
   background-color: var(--background-primary);
   box-shadow: 0 0 10px #2e2c2c;
   border-radius: 5px;
+  padding-top: var(--content-inner-padding-y) ;
+  padding-bottom: var(--content-inner-padding-y) ;
+  padding-right: var(--content-inner-padding-x) ;
+  padding-left: var(--content-inner-padding-x) ;
 }
 
-.cm-lineWrapping > *, .inline-title {
-  padding: 0 2rem !important;
-  text-indent: 0 !important;
-}
-.inline-title {
-  padding-top: 2rem !important;
-}
+.markdown-source-view.mod-cm6 .cm-content > .HyperMD-header-1 {
+  margin-right: calc( -1 * var(--content-inner-padding-x)) !important;
+  margin-left: calc(-1 * var(--content-inner-padding-x)) !important;
+} 
+
 
 .cm-scroller {
   background-color: var(--background-opacity);
 }
 .cm-editor {
+  background-size: cover;
+  background-position: 480px;
+  /* background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.magnific.com%2Fpremium-vector%2Fwatercolor-mountain-background-with-japanese-wave-pattern_527151-132.jpg); */
+  /* background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp7309870.jpg); */
+  /* background-image: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwallpapercave.com%2Fwp%2F62pypdN.jpg); */
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.publicdomainpictures.net%2Fpictures%2F620000%2Fvelka%2Fimage-1721456430mPL.jpg);
+
   background-color: white;
 }
 
@@ -53,33 +74,6 @@
     --callout-icon: lucide-info;
 }
 
-.spoil {
-  position: relative;
-}
-.spoil::before {
-  content: '';
-  background-color: blue;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  position: absolute;
-}
-.spoil:hover::before {
-  display: none;
-}
-
-/* reading mode */
-/* .markdown-preview-view p {
-    text-align: justify;
-    text-justify: inter-word;
-}
-
-/*source view and live preview */
-/*.markdown-source-view.mod-cm6 .cm-line {
-  text-align: justify;
-  text-justify: inter-word;
-} */
 
 .cm-s-obsidian span.cm-highlight, .markdown-rendered mark {
   text-decoration: underline;
@@ -98,62 +92,10 @@
   border-radius: 1.5rem !important;
 }
 
-/** Headers **/
-.cm-header {
-  /* color: #6c8195; */
-}
 .cm-content .HyperMD-header-1  {
-  background-color: #36db33;
+  background-color: var(--accent-color);
   vertical-align: middle;
   padding: 20px 10px !important;
-  color: #1a1f24;
+  color: var(--light-primary-color);
   margin-bottom: 20px !important;
-}
-
-/** Hide-show **/
-.timeline .description {
-  height: 0;
-  overflow: hidden;
-  padding: 0 !important;
-}
-
-.timeline .description:hover, 
-.timeline .title:hover + .description {
-  padding: 1.5rem !important;
-}
-
-.timeline .title:hover + .description, 
-.timeline .description:hover {
-  height: auto;
-  padding: 1.5rem !important;
-}
-/** End - Hide-show **/
-
-
-.timeline .description .internal-embed {
-  padding-left: 0;
-  border-left: none;
-}
-
-
-.timeline .time>*,
-.timeline .title>* {
-    font-size: 1em;
-    font-weight: bold
-}
-
-@media print {
-
-  .cm-header {
-    color: #36db33 !important;
-  }
-  * {
-    font-family: 'Times New Roman';
-  }
-
-  :root body {
-    --font-text: "Times New Roman";
-    --font-text-size: 12px !important;
-  }
-
 }
