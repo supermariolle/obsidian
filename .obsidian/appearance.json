@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "base"
   ],
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "showRibbon": true
 }

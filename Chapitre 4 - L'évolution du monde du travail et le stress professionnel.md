@@ -42,7 +42,7 @@ L'impact négatif du travail a augmenté entre 2015 et 2021 et le sentiment subj
 	*Force de travail vieillissante*. Le gouvernement veut nous faire travailler plus et diminuer les possibilités de quitter son travail plus tôt.
 	${}$
 	Extrait (la mise à mort du travail)
-	1/4 des hommes et 1/3 des femmes souffrent de troubles psychologiques liés à leur travail. TSM : troubles musculosquelettiques. Coutent 710 millions d'euro à la sécurité sociale. Une caissière soulève en moyenne 1 tonne par heure. Pour compenser la douleur au bras, on utilise davantage son épaule qui va en pâtir.
+	1/4 des hommes et 1/3 des femmes souffrent de troubles psychologiques liés à leur travail. TSM : troubles musculosquelettiques. Coutent 710 millions d'euro à la sécurité sociale. Une caissière soulève en moyenne 1 tonne par heure. Pour compenser la douleur au bras, on utilise davantage son épaule qui va en patir.
 	10% des hommes sont dépendants à l'alcool pour des raisons liées au travail.
 	8% des travailleurs prennent des psychotropes pour tenir le coup au travail. 
 	

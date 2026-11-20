@@ -32,92 +32,42 @@
               "icon": "lucide-file",
               "title": "Home"
             }
-          },
-          {
-            "id": "faa4ffb98ec2fdea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ART - Alcolo-dépendance.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ART - Alcolo-dépendance"
-            }
-          },
-          {
-            "id": "c99febcee0736653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEM - Stigmatisation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DEM - Stigmatisation"
-            }
-          },
-          {
-            "id": "6a35e087147aaf9a",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "B2 - Evidence Based Practice.md",
-                "bFile": "B2 - Evidence Based Practice.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: B2 - Evidence Based Practice  (Index)"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4d3eecf16e756b6c",
+    "id": "a747cd5342d690dc",
     "type": "split",
     "children": [
       {
-        "id": "0ffcc7c8597200f6",
+        "id": "f13ff780945d2d1c",
         "type": "tabs",
-        "dimension": 77.87610619469027,
         "children": [
           {
-            "id": "22fddcb8fdffb5b3",
+            "id": "6c51741f7566c14e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "565c37dc62139a02",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "trouble paniq",
+                "query": "pubmed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,112 +79,74 @@
             }
           },
           {
-            "id": "b3ee2e8d90498bd2",
+            "id": "65118dd38519f401",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "4ad5a6944b7d15d8",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "3dcfc89bd62fef84",
-        "type": "tabs",
-        "dimension": 22.123893805309734,
-        "children": [
-          {
-            "id": "29eb955fe8603875",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.4495880896345337,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphe local"
+              "icon": "lucide-bookmark",
+              "title": "Signets"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "8958fedcaa620e5c",
+    "id": "9a38a1bbc07b113b",
     "type": "split",
     "children": [
       {
-        "id": "cb10153b7d2ab192",
+        "id": "aea81fdd225146c2",
         "type": "tabs",
-        "dimension": 47.74566473988439,
         "children": [
           {
-            "id": "4b5904ac5530bea0",
+            "id": "3531875673f2a99a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "6ec49fa812ccfdad",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Développement affectif.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Développement affectif"
+              "title": "Liens sortants"
             }
           },
           {
-            "id": "8a0efc684181f7df",
+            "id": "eee60af02890cc86",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": true,
+                "useHierarchy": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -242,21 +154,32 @@
             }
           },
           {
-            "id": "42215e367a0f9ca5",
+            "id": "fad0624559f89cdf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Plan"
             }
           },
           {
-            "id": "291ca3e021573c5f",
+            "id": "92ed080cf26f9cfc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "c48c44b6cfede966",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -266,123 +189,41 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "b823bd895026eaab",
-        "type": "tabs",
-        "dimension": 23.121387283236995,
-        "children": [
-          {
-            "id": "638e408a0fc9a855",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Rétroliens"
-            }
-          }
-        ]
-      },
-      {
-        "id": "dcb560491107237e",
-        "type": "tabs",
-        "dimension": 29.13294797687861,
-        "children": [
-          {
-            "id": "73a7e30836c00c59",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Créer un nouveau canvas": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer un nouveau canvas": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Créer une nouvelle base": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "homepage:Open homepage": false,
       "ob2static-site:Current file - Static Site MD Export": false,
       "ob2static-site:All files - Static Site MD Export": false,
       "webpage-html-export:Export as HTML": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "lexicon-dictionary:Lexicon dictionary": false
     }
   },
-  "active": "6a35e087147aaf9a",
+  "active": "6c51741f7566c14e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "DEM - Stigmatisation.md",
-    "Assets/_24-25__PaulaA_Stat3_Synth__se.pdf.pdf",
-    "Assets/Exercices Leçon 3.pdf",
-    "Assets/Exercices Leçon 2.pdf",
-    "Assets/Exercices Leçon 2 1.pdf",
-    "ART - Alcolo-dépendance.md",
-    "Assets/Yang et al., 2022.pdf",
+    "SAS - Ex 4.md",
+    "SAS - Eval 2.md",
+    "Assets/Pasted image 20261115180213.png",
+    "Assets/Pasted image 20261115180203.png",
+    "Assets/Pasted image 20261115180156.png",
+    "Assets/Exercices Leçon4.pdf",
+    "Assets/Cours 4 - Ressources.pdf",
+    "B2 - Evidence Based Practice.md",
     "Home.md",
-    "ART - Violences conjugales.md",
-    "Assets/Choudhury et al., 2025.pdf",
-    "Articles scientifiques",
-    "Assets/PSYC1008_12_Stigmatisation_2026(1).pdf",
-    "B3 - Approche de la démarche clinique en psychologie.md",
-    "NEURO - Contrôle attentionnel et distractions.md",
-    "B3 - Neuropsychologie.md",
-    "NEURO - Chapitre 9 Neuropsychologie de la cognition spatiale.md",
-    "DEM - Soutenir la compréhension partagée.md",
-    "Assets/Chapitre 9 - cognition spatiale.pdf",
-    "Assets/Prof G. Scantamburlo - PTSD & Trouble de l'adaptation 1.pdf",
-    "PHARMA - Troubles liés au stress post-traumatique.md",
-    "B3 - Psychiatrie et psychopharmacologie clinique.md",
-    "PHARMA - troubles anxieux.md",
-    "B2 - Psychopathologie générale.md",
-    "DEM - Soutenir la prise de décision partagée.md",
-    "DEM - Travaux pratiques.md",
-    "BIEN - Travail & famille.md",
-    "B3 - Psychologie du bien-être au travail.md",
-    "ADO - Adoption.md",
-    "B3 - Adolescent.md",
-    "Chapitre 3 - Techniques d'évaluation de la personnalité.md",
-    "B3 - Méthodes d'évaluation de la personnalité.md",
-    "BIEN - Communication.md",
-    "Assets/Pasted image 20261102141500.png",
-    "EN - Occupational psychology.md",
-    "B3 - English.md",
-    "Anglais.md",
-    "Assets/Pasted image 20261023100322.png",
-    "Assets/Pasted image 20261021095430.png",
-    "Assets/Pasted image 20261016095149.png",
-    "Assets/Pasted image 20261016095403.png",
-    "Assets/Pasted image 20261016090605.png",
-    "Assets/Pasted image 20261014084833.png",
-    "Assets/Pasted image 20261008122932.png",
-    "Pasted image 20260924100854.png",
-    "Pasted image 20260922095156.png",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Psycho/Psychostatistiques/Untitled.canvas",
-    "Untitled.canvas"
+    "DEM - Travaux pratiques.md"
   ]
 }

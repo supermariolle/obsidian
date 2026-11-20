@@ -1,3 +1,13 @@
+<details>
+  <summary>Click me</summary>
+
+    "https://player.vimeo.com/video/887898247?share=copy",
+    "https://player.vimeo.com/video/887898413?share=copy",
+    "https://player.vimeo.com/video/887898436?share=copy",
+
+</details>
+
+
 > **Consignes**
 > Vous allez observer différents extraits d'une séance d'évaluation psychologique menée par Aurélie Wagener avec Jean-Paul Noël, patient-formateur, pair aidant et médiateur chez ASBL Psy'Cause.
 > **Pour la vidéo "Un premier entretien"**, focalisez-vous sur la psychologue et identifiez - 6 techniques de communication différentes (pour chaque technique, écrivez un exemple de verbatim d'Aurélie Wagener et essayez d'attribuer un nom à cette technique)
@@ -24,6 +34,7 @@ Liste des techniques de communication vues en cours:
 
 
 # Vidéo "un premier entretien"
+
 6 techniques utilisées: 
 - *paraphrase*: "donc pour vous, si je reformule ce que vous venez de me dire, ce n'est pas le trouble bipolaire qui détermine que vous soyez impulsif. [...]" 
   *Reformulation empathique*, on rejoint le patient: "l'anxiété est tellement forte pour vous que vous avez du mal à vous mettre en action, donc je comprends que ça devienne écrasant." (ne faire que quand on rejoint la personne)
@@ -33,8 +44,30 @@ Liste des techniques de communication vues en cours:
 - *écoute active sélective*: "[...] la peur de vous, la peur de vos réactions. Qu'est-ce qu'il en est de votre confiance en vous?"
 - *écoute active non-sélective*: "Dans votre vie actuelle, est-ce qu'il y a d'autres choses qui compliquent votre participation à ces réunions?"
 - *reflet:* Nommer ce qu'on observe. "Je vois que vous êtes tendu. Là je sens que la situation vous met en colère."
+- *Métacommunication*: "Hmmm, comment est-ce que je pourrais dire ça? ..."
+
 Les domaines explorés: 
 - le trouble bipolaire de Mr. 
 	- 4 phases: dépressive, normale, hypomane (inclut le plus de phases d'impulsivité), maniaque.
 - l'activité personnelle et les autres facteurs de la vie du patient qui empêchent cette activité (les 2 phases dépressives)
 - Les ressources du patient. La lecture, sa famille, l'humour 
+
+# Vidéo "Un questionnaire"
+
+> **Pour la vidéo "Un questionnaire"**, analysez la façon dont Aurélie Wagener propose un outil d'évaluation au patient et identifiez les étapes/les temps forts dans sa façon de communiquer.
+
+
+***Étapes du questionnaire - Temps forts dans sa façon de communiquer***
+1) Résumé des besoins (confiance en soi, impulsivité)
+2) Expliquer pourquoi faire une évaluation (la comprendre autrement)
+3) Décrire le questionnaire (20 items, cocher, etc)
+4) Questions?
+5) Accord avec la démarche?
+
+# Vidéo " Une conclusion"
+
+***Étapes de la conclusion - Temps forts dans sa façon de communiquer***
+
+1) Expliquer ce qui a été testé
+2) Pour chaque conclusion, demander si le patient s'y retrouve
+3) Demander comment il ressent le fait d'être positionné ainsi par rapport à la moyenne
